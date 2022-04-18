@@ -4,7 +4,7 @@ title:  "Programming the Shor's Algorithm to Crack the RSA Cryptography"
 author: bobby
 image: assets/images/encryption_1.jpeg
 categories: Cryptography
-comments: true
+comments: false
 ---
 
 In the previous <a href="https://bobbycorpus.wordpress.com/2017/10/15/rsa-encryption-and-quantum-computing/" target="_blank" rel="noopener">post</a>, we showed Shor's Algorithm, the theory behind cracking of the RSA using Quantum Computing. In this post, we will show how to program the algorithm using QISKit in order to appreciate how the theory is implemented.
