@@ -17,7 +17,7 @@ jane:
 bobby:
   name:           Bobby Corpus
   site:           https://www.wowthemes.net
-  avatar:         /assets/images/bobby.png
+  avatar:         /assets/images/bobby_profile_200x200.png
   bio:            "Building the community one qubit at a time."
   email:          fakemail@gmail.com
   twitter:        https://twitter.com/bcorpus_jr
