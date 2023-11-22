@@ -14,6 +14,8 @@ The hackathon saw an impressive opening with the Vice Mayor of Cebu City, Honora
 
 Highlighting the event was a keynote speech from Nardo Manaloto, Managing Partner of Qubits Ventures, who delved into the "Quantum Ecosystem and Investment Opportunities." This insightful presentation was complemented by Jeffrey Aborot from the Department of Science and Technology-Advanced Science and Technology Institute (DOST-ASTI), one of the hackathon's partners, who introduced ASTI and the Quantum Computing Simulator.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tv7EgPJFP2M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Further adding to the wealth of knowledge was Brian Siegelwax, an Independent Quantum Algorithms Designer and member of OneQuantum, who captivated the audience with his presentation titled "The State of Quantum Computing."
 
 This pioneering hackathon was attended by students from several prestigious universities, including the University of the Philippines-Cebu, University of San Jose-Recolletos, and University of San Carlos, with two teams each from CIT-U and University of San Jose-Recolletos. Each team, composed of three students and a coach, faced the challenge of solving as many problems as possible in the QISKit Blocks game within two hours.
