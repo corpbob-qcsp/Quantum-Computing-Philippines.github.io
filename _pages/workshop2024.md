@@ -29,10 +29,10 @@ Quantum algorithms, quantum annealing, quantum communications, quantum cryptogra
 <table>
 <tr><td>Jeffrey Aborot</td><td>&nbsp;&nbsp;&nbsp;<b> Advance Science, and Technology Institute - DOST</b></td></tr>
 <tr><td>Henry Adorna</td><td>&nbsp;&nbsp;&nbsp;<b> University of the Philippines Diliman (co-Chair)</b></td></tr>
-<tr><td>Richard Bryann Chua</td><td>&nbsp;&nbsp;&nbsp;<b> University of the Philippines Manila (tbc)</b></td></tr>
+<tr><td>Richard Bryann Chua</td><td>&nbsp;&nbsp;&nbsp;<b> University of the Philippines Manila</b></td></tr>
 <tr><td>Bobby Corpus</td><td>&nbsp;&nbsp;&nbsp;<b> One Quantum PH (co-Chair)</b></td></tr>
-<tr><td>Eric Galapon</td><td>&nbsp;&nbsp;&nbsp;<b> National Institute of Physics (tbc)</b></td></tr>
-<tr><td>Lucky Galvez</td><td>&nbsp;&nbsp;&nbsp;<b> Institute of Mathematics, UPDiliman (tbc)</b></td></tr>
+<tr><td>Eric Galapon</td><td>&nbsp;&nbsp;&nbsp;<b> National Institute of Physics</b></td></tr>
+<tr><td>Lucky Galvez</td><td>&nbsp;&nbsp;&nbsp;<b> Institute of Mathematics, UPDiliman</b></td></tr>
 <tr><td>Dylan Josh Lopez</td><td>&nbsp;&nbsp;&nbsp;<b> Chung Yuan Christian University</b></td></tr>
 <tr><td>Elmer Peramo</td><td>&nbsp;&nbsp;&nbsp;<b> Advance Science, and Technology Institute - DOST</b></td></tr>
 <tr><td>Jacqui Romero</td><td>&nbsp;&nbsp;&nbsp;<b> The University of Queensland (tbc)</b></td></tr>
@@ -49,7 +49,7 @@ Accepted papers will be included in the workshop proceedings, which will be anno
 ### Important Dates
 <table>
 <tr><td>Abstract Submission Deadline	</td><td>&nbsp;&nbsp;&nbsp;<b> April 30, 2024 (Tuesday)</b></td></tr>
-<tr><td>Notification of Acceptance		</td><td>&nbsp;&nbsp;&nbsp;<b> May 2, 2024 (Thursday)</b></td></tr>
+<tr><td>Notification of Acceptance		</td><td>&nbsp;&nbsp;&nbsp;<b> May 5, 2024 (Sunday)</b></td></tr>
 <tr><td>Workshop Date			</td><td>&nbsp;&nbsp;&nbsp;<b> May 12, 2024 (Sunday)</b></td></tr>
 </table>
 <br/>
