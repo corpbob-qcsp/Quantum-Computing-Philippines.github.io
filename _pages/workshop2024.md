@@ -39,7 +39,7 @@ Quantum algorithms, quantum annealing, quantum communications, quantum cryptogra
 </table>
 <br/>
 ### Submission
-We invite everyone who have been working on quantum computing to submit an Extended Abstract of their work with at most three (3) pages long.  The Extended Abstract must contain (a) the problem you intend to consider/solve in your work; (b) quantum computing technique you used in solving the problem; (c) the results of your computation/simulations, and (d) finally your conclusion.
+We invite everyone who have been working on quantum computing to submit an Extended Abstract of their work with at most three (3) pages long.  The Extended Abstract must contain (a) the problem you intend to consider/solve in your work; (b) quantum computing technique you used in solving the problem; (c) the results of your computation/simulations, and (d) finally your conclusion. Please use the following template for the Extended Abstract, which can be obtained from <a href="https://drive.google.com/drive/folders/1akxty7z9Z1quT28eizIiDRP89zSevb5s?usp=sharing">here</a>.
 
 We invite submissions of works-in-progress, interactive / simulation demos, and position papers that contribute to the advancement of Quantum Information, Communication, and Technology (QICT) research in the Philippines.
 
