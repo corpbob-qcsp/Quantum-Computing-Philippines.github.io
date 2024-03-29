@@ -15,6 +15,13 @@ permalink: "/workshop2024.html"
 
 This workshop intends to introduce the computing community in the country to Quantum Computing.  The main goal of the workshop is to put together in one venue individuals who are working on, interested in, and curious about quantum computing, it’s power to solves interesting problems and its limitations.   We hope to provide a friendly atmosphere during the workshop for individuals or group of individuals to share their output and experiences working on quantum computing. This maiden workshop aims to prepare participants in understanding and appreciation of the power of quantum computing through a short tutorial on quantum algorithm and programming.
 
+<hr/>
+### Quick Links
+
+Registration: [https://bit.ly/QCWorkshop2024registration](https://bit.ly/QCWorkshop2024registration)
+
+Submission of Abstracts: [https://bit.ly/QCWorkshop2024abstractsubmission](https://bit.ly/QCWorkshop2024abstractsubmission)
+<hr/>
 ### Topics (but not limited to):
 Quantum algorithms, quantum annealing, quantum communications, quantum cryptography, quantum decoherence, quantum error correction, quantum programming, quantum sensing, quantum simulations, post quantum cryptography
 
@@ -63,3 +70,7 @@ The workshop will be held at Adventist University of the Philippines (AUP), Sila
 <tr><td>05:00</td><td>&nbsp;&nbsp;&nbsp;	End</td></tr>
 
 <table>
+
+<hr/>
+
+Please use the links <a href="#quick-links">here</a>
