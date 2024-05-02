@@ -71,8 +71,8 @@ Accepted papers will be included in the workshop proceedings, which will be anno
 
 ### Important Dates
 <table>
-<tr><td>Abstract Submission Deadline	</td><td>&nbsp;&nbsp;&nbsp;<b> April 30, 2024 (Tuesday)</b></td></tr>
-<tr><td>Notification of Acceptance		</td><td>&nbsp;&nbsp;&nbsp;<b> May 5, 2024 (Sunday)</b></td></tr>
+<tr><td>Abstract Submission Deadline	</td><td>&nbsp;&nbsp;&nbsp;<b> May 6, 2024 (Monday)</b></td></tr>
+<tr><td>Notification of Acceptance		</td><td>&nbsp;&nbsp;&nbsp;<b> May 10, 2024 (Friday)</b></td></tr>
 <tr><td>Workshop Date			</td><td>&nbsp;&nbsp;&nbsp;<b> May 12, 2024 (Sunday)</b></td></tr>
 </table>
 <br/>
