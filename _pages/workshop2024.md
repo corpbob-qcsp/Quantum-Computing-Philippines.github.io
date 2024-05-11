@@ -102,18 +102,30 @@ Authors and Regular Workshop Participants
 The workshop will be held at Adventist University of the Philippines (AUP), Silang Cavite as part of the Philippine Computing Science Congress (PCSC), the premier annual computing conference in the Philippines. AUP is about 18 minutes ride by car/public transport from DLSU Laguna Campus, in the direction towards Tagaytay City.
 
 ### Tentative Program
-<table>
-<tr><td>07:00</td><td>&nbsp;&nbsp;&nbsp;	Registration and Welcome Coffee</td></tr>
-<tr><td>08:00</td><td>&nbsp;&nbsp;&nbsp;	Opening and Welcome Remarks</td></tr>
-<tr><td>08:45</td><td>&nbsp;&nbsp;&nbsp;	Coffee Break</td></tr>
-<tr><td>09:00</td><td>&nbsp;&nbsp;&nbsp;	Workshop Activities</td></tr>
+<table valign="top">
+<tr><td>08:00</td><td>&nbsp;&nbsp;&nbsp;	Registration and Welcome Soy Coffee</td></tr>
+<tr><td>08:30</td><td>&nbsp;&nbsp;&nbsp;	Opening and Welcome Remarks</td></tr>
+<tr><td>08:45</td><td>&nbsp;&nbsp;&nbsp;	Soy Coffee Break</td></tr>
+<tr><td>09:00</td><td>&nbsp;&nbsp;&nbsp;	Workshop Activities: Quantum Algorithms and Programming &nbsp;&nbsp;&nbsp;&nbsp;Tutorials</td></tr>
+<tr><td></td><td>&nbsp;&nbsp;&nbsp;	Jeffrey Aborot and Bobby Corpus</td></tr>
 <tr><td>12:00</td><td>&nbsp;&nbsp;&nbsp;        Lunch Break	</td></tr>
-<tr><td>01:00</td><td>&nbsp;&nbsp;&nbsp;	Keynote</td></tr>
-<tr><td>02:00</td><td>&nbsp;&nbsp;&nbsp;	Paper Presentations</td></tr>
-<tr><td>04:00</td><td>&nbsp;&nbsp;&nbsp;	Coffee Break</td></tr>
-<tr><td>04:15</td><td>&nbsp;&nbsp;&nbsp;	Closing Ceremonies</td></tr>
-<tr><td>05:00</td><td>&nbsp;&nbsp;&nbsp;	End</td></tr>
-
+<tr style="vertical-align:top"><td>13:00</td><td>&nbsp;&nbsp;&nbsp;	Keynote: <b>Lattice Cryptography: Theory, Applications, and &nbsp;&nbsp;&nbsp;&nbsp;Standardization Efforts</b></td></tr>
+<tr><td></td><td>&nbsp;&nbsp;&nbsp;	Earl Robles, InfineonTechnologies, AG</td></tr>
+<tr><td>14:00</td><td>&nbsp;&nbsp;&nbsp;	Invited Talk: <b>Survey on recent code-based cryptosystems.</b></td></tr>
+<tr><td></td><td>&nbsp;&nbsp;&nbsp;	Lucky Galvez, Institute of Mathematics, UPDiliman</td></tr>
+<tr><td>14:45</td><td>&nbsp;&nbsp;&nbsp;	Soy Coffee Break</td></tr>
+<tr style="vertical-align:top"><td>15:00-16:00</td><td>&nbsp;&nbsp;&nbsp;	Paper Presentations</td></tr>
+<tr style="vertical-align:top"><td>15:00</td><td>&nbsp;&nbsp;&nbsp;	<b>Some Recent Advances in Finding Quantum Algorithms for &nbsp;&nbsp;&nbsp;&nbsp;Lattice Problems</b></td></tr>
+<tr><td></td><td>&nbsp;&nbsp;&nbsp;	Richard Bryann Chua, UPManila</td></tr>
+<tr><td>15:15</td><td>&nbsp;&nbsp;&nbsp;	<b>Simulating Quantum Algorithms for Indoor Localization</b></td></tr>
+<tr><td></td><td>&nbsp;&nbsp;&nbsp;	Marc Pontiveros, UPDiliman</td></tr>
+<tr style="vertical-align:top"><td>15:30</td><td>&nbsp;&nbsp;&nbsp;	<b>Concurrent Quantum Circuit Simulation with Decision Diagrams &nbsp;&nbsp;&nbsp;&nbsp;Leveraging High-Performance Computing: Benchmarking &nbsp;&nbsp;&nbsp;&nbsp;Analysis</b></td></tr>
+<tr><td></td><td>&nbsp;&nbsp;&nbsp;	Jul Jon General, DOST-ASTI &amp; UPDiliman</td></tr>
+<tr style="vertical-align:top"><td>15:45</td><td>&nbsp;&nbsp;&nbsp;	<b>Transforming Crop Optimization with Quantum Computing: An &nbsp;&nbsp;&nbsp;&nbsp;Application of Variational Quantum Eigensolver Algorithm and &nbsp;&nbsp;&nbsp;&nbsp;Classical Machine Learning in Agriculture</b></td></tr>
+<tr><td></td><td>&nbsp;&nbsp;&nbsp;	Bernardino Buenaobra, Del Monte Philippines Inc. Plantation</td></tr>
+<tr><td>16:00</td><td>&nbsp;&nbsp;&nbsp;	Soy Coffee Break + First Quantum Meeting</td></tr>
+<tr><td>16:40</td><td>&nbsp;&nbsp;&nbsp;	Closing Ceremonies</td></tr>
+<tr><td>17:00</td><td>&nbsp;&nbsp;&nbsp;	End of Workshop</td></tr>
 <table>
 
 <hr/>
