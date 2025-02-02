@@ -1,7 +1,7 @@
 ---
 title: "About"
 permalink: "/about.html"
-image: assets/images/hadamard_matrix_white_background.png
+image: assets/images/wTagline.png
 ---
 
 Our vision is to be a global force for good in Quantum Tech and support humanity's transition into the quantum era in an inclusive way, enabling everyone to contribute, grow and make a positive impact.
