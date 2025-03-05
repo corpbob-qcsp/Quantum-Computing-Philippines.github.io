@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "singapore-resqt"
+title:  "QCSP Represents the Philippines at Prestigious Quantum and Geopolitics Event in Singapore"
 date:   2024-10-16 08:30:00 -0800
 author: bobby
 image: assets/images/2024-10-16-resqt-sg/resqt_all_resize.png
