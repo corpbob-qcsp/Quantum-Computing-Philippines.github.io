@@ -23,7 +23,6 @@ Join us for this interactive experience and take your first steps toward the qua
 
 Registration: [https://bit.ly/QCWorkshop2025registration](https://bit.ly/QCWorkshop2025registration)
 
-Submission of Abstracts: [https://bit.ly/QCWorkshop2025abstractsubmission](https://bit.ly/QCWorkshop2025abstractsubmission)
 <hr/>
 ### Topics (but not limited to):
 Quantum algorithms, quantum annealing, quantum communications, quantum cryptography, quantum decoherence, quantum error correction, quantum programming, quantum sensing, quantum simulations, post quantum cryptography
