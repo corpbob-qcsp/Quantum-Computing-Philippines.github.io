@@ -21,3 +21,12 @@ bobby:
   bio:            "Bobby is President of OneQuantum Philippines, a local chapter of OneQuantum global community. He is a Technical Architect at Section6, New Zealand and was the Innovation Lead at the Enterprise Data Office at Globe Telecoms. He was a Solution Architect at Red Hat and a Vice President and Lead Solution architect in Deutsche Bank AG, Singapore. His interest in Quantum Computing comes from his training in Theoretical Physics and Computer Science."
   email:          fakemail@gmail.com
   twitter:        https://twitter.com/bcorpus_jr
+
+jabez:
+  name:           Jabez Ayson
+  site:           https://www.wowthemes.net
+  avatar:         /assets/images/jabez_ayson_profile.jpeg
+  bio:            "Hi! I'm Jabz, the Director of Operations at the Quantum Computing Society of the Philippines and a sophomore pursuing a BS in Electronics Engineering in Pampanga, Philippines. Passionate about technology and research, I focus on Photonics, Quantum Computing, and Microelectronics, exploring cutting-edge computing methods like optical XPUs and neutral atom quantum computing to optimize 5G networks. Beyond my technical pursuits, I'm a strong advocate for education and science communication—serving as a research consultant at my former high school, volunteering for a non-profit dedicated to student career development, interning at a data science up-skilling platform, and actively building communities around quantum computing and its applications."
+  email:          fakemail@gmail.com
+  twitter:        https://www.linkedin.com/in/jabezayson/
+
