@@ -63,7 +63,8 @@ Authors and Regular Workshop Participants
 
 ### Please register via
 
-<a href="bit.ly/QCWorkshop2025registration">bit.ly/QCWorkshop2025registration</a>
+<a href="bit.ly/QCWorkshop2025registration">https://bit.ly/QCWorkshop2024registration</a>
+
 
 ### Tentative Program
 <table valign="top">
