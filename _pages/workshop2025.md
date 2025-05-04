@@ -30,7 +30,7 @@ Join us for this interactive experience and take your first steps toward the qua
 <hr/>
 ### Quick Links
 
-Registration: [https://bit.ly/QCWorkshop2025registration](https://bit.ly/QCWorkshop2025registration)
+Registration: [https://bit.ly/QcWorkshop2025registration](https://bit.ly/QcWorkshop2025registration)
 
 <hr/>
 ### Program Committee
@@ -63,7 +63,7 @@ Authors and Regular Workshop Participants
 
 ### Please register via
 
-<a href="https://bit.ly/QCWorkshop2025registration">https://bit.ly/QCWorkshop2024registration</a>
+<a href="https://bit.ly/QcWorkshop2025registration">https://bit.ly/QcWorkshop2025registration</a>
 
 
 ### Tentative Program
