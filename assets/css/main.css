@@ -82,7 +82,9 @@ hr {
 
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
-  margin-bottom: 0.5rem; }
+  margin-bottom: 0.5rem; 
+  
+}
 
 p {
   margin-top: 0;
@@ -314,7 +316,7 @@ h1, h2, h3, h4, h5, h6,
   font-family: inherit;
   font-weight: 500;
   line-height: 1.2;
-  color: inherit; }
+  color: #6534a0; }
 
 h1, .h1 {
   font-size: 2.5rem; }
@@ -1370,7 +1372,7 @@ pre {
   .form-control:focus {
     color: #495057;
     background-color: #fff;
-    border-color: #2ffbc5;
+    border-color: #588679;
     outline: 0;
     box-shadow: 0 0 0 0.2rem rgba(3, 168, 124, 0.25); }
   .form-control::-webkit-input-placeholder {
@@ -1898,11 +1900,11 @@ fieldset:disabled a.btn {
 
 .btn-dark {
   color: #fff;
-  background-color: #212529;
-  border-color: #212529; }
+  background-color: #7040a4;
+  border-color: #7040a4; }
   .btn-dark:hover {
     color: #fff;
-    background-color: #101214;
+    background-color: #8d52cc;
     border-color: #0a0c0d; }
   .btn-dark:focus, .btn-dark.focus {
     box-shadow: 0 0 0 0.2rem rgba(33, 37, 41, 0.5); }
@@ -5137,7 +5139,7 @@ button.bg-orange:focus {
   background-color: #c89000 !important; }
 
 .bg-lightblue {
-  background-color: #e8f3ec !important; }
+  background-color: #F4F0FA !important; }
 
 a.bg-lightblue:hover, a.bg-lightblue:focus,
 button.bg-lightblue:hover,
@@ -7200,19 +7202,19 @@ a.text-danger:hover, a.text-danger:focus {
   color: #f8f9fa !important; }
 
 a.text-light:hover, a.text-light:focus {
-  color: #dae0e5 !important; }
+  color: #8550c6 !important; }
 
 .text-dark {
-  color: #212529 !important; }
+  color: #6534a0 !important; }
 
 a.text-dark:hover, a.text-dark:focus {
-  color: #0a0c0d !important; }
+  color: #8550c6 !important; }
 
 .text-white {
   color: #fff !important; }
 
 a.text-white:hover, a.text-white:focus {
-  color: #e6e6e6 !important; }
+  color: #8550c6 !important; }
 
 .text-purple {
   color: #ad6edd !important; }
