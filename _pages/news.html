@@ -1,0 +1,40 @@
+---
+title: "News"
+layout: default
+permalink: "/news.html"
+---
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8 main-loop">
+
+            <h1 class="font-weight-bold title h6 text-uppercase">News</h1>
+            <hr>
+
+            {% assign sorted_news = site.news | sort: 'date' | reverse %}
+            {% for item in sorted_news %}
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+                <div class="pr-3">
+                    <h2 class="mb-1 h4 font-weight-bold">
+                        <a class="text-dark" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+                    </h2>
+                    <p class="text-muted">
+                        {{ item.excerpt | strip_html | strip_newlines | truncate: 186 }}
+                    </p>
+                    <small class="text-muted">
+                        {{ item.date | date: '%b %d, %Y' }}
+                    </small>
+                </div>
+                {% if item.image %}
+                <div class="col-md-3 pr-0 text-right">
+                    <a href="{{ site.baseurl }}{{ item.url }}">
+                        <img class="w-100" src="{% if item.image contains "://" %}{{ item.image }}{% else %}{{ item.image | absolute_url }}{% endif %}" alt="{{ item.title }}">
+                    </a>
+                </div>
+                {% endif %}
+            </div>
+            {% endfor %}
+
+        </div>
+    </div>
+</div>

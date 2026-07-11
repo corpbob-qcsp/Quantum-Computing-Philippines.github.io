@@ -3,3 +3,9 @@ _site
 .jekyll-metadata
 node_modules
 Gemfile.lock
+.DS_Store
+*.swp
+.claude
+assets/images/qcsp_philsa0*.png
+assets/images/ntc_meeting.png
+assets/images/devcon_0*.png
