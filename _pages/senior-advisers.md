@@ -10,11 +10,11 @@ QCSP is guided by a group of senior advisers whose experience spans industry, te
 <div class="row mt-4">
 
 <div class="col-md-6 mb-5 d-flex">
-<img class="rounded-circle mr-3" src="{{site.baseurl}}/assets/images/advisers/dan-zarraga.jpg" alt="Dan Zarraga" width="110" height="110">
+<img class="rounded-circle mr-3" src="{{site.baseurl}}/assets/images/advisers/dan-zarraga.jpg" alt="Dan Zarraga, Ph.D." width="110" height="110">
 <div>
-<h4 class="font-weight-bold mb-1">Dan Zarraga</h4>
+<h4 class="font-weight-bold mb-1">Dan Zarraga, Ph.D.</h4>
 <p class="text-muted mb-2"><em>Head of Drug Product Development, Genomic Medicines &middot; Senior Director, BioDP Development</em></p>
-<p>Dan Zarraga is Head of Drug Product Development for Genomic Medicines and Senior Director of BioDP Development, with more than 20 years of experience as a biopharma development and strategic innovation leader in the pharmaceutical industry.</p>
+<p>Dan Zarraga, Ph.D. is Head of Drug Product Development for Genomic Medicines and Senior Director of BioDP Development, with more than 20 years of experience as a biopharma development and strategic innovation leader in the pharmaceutical industry.</p>
 </div>
 </div>
 
@@ -40,8 +40,8 @@ QCSP is guided by a group of senior advisers whose experience spans industry, te
 <img class="rounded-circle mr-3" src="{{site.baseurl}}/assets/images/advisers/henry-adorna.jpg" alt="Henry Adorna, Ph.D." width="110" height="110">
 <div>
 <h4 class="font-weight-bold mb-1">Henry Adorna, Ph.D.</h4>
-<p class="text-muted mb-2"><em>Professor of Theoretical Computer Science, University of the Philippines Diliman</em></p>
-<p>Henry Adorna, Ph.D. is a Professor of Theoretical Computer Science at the University of the Philippines Diliman.</p>
+<p class="text-muted mb-2"><em>Professor, Department of Computer Science, University of the Philippines Diliman</em></p>
+<p>Dr. Henry N. Adorna is a Professor at the Department of Computer Science, University of the Philippines Diliman, and Head of the Logic and Computability Laboratory, with research spanning theoretical computer science, automata, and natural and quantum computing.</p>
 </div>
 </div>
 
