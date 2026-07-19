@@ -22,8 +22,8 @@ QCSP is guided by a group of senior advisers whose experience spans industry, te
 <img class="rounded-circle mr-3" src="{{site.baseurl}}/assets/images/advisers/jocelle-batapa-sigue.jpg" alt="Atty. Jocelle Batapa-Sigue" width="110" height="110">
 <div>
 <h4 class="font-weight-bold mb-1">Atty. Jocelle Batapa-Sigue</h4>
-<p class="text-muted mb-2"><em>Convenor, Philippine ICT Network, Inc.</em></p>
-<p>Atty. Jocelle Batapa-Sigue is the Convenor of the Philippine ICT Network, Inc., where she champions the country's readiness for the technological transformations brought about by quantum computing, artificial intelligence, and other emerging technologies.</p>
+<p class="text-muted mb-2"><em>Senior Legal Adviser, QCSP &middot; Convenor, Philippine ICT Network, Inc.</em></p>
+<p>Atty. Jocelle Batapa-Sigue is QCSP's Senior Legal Adviser and the Convenor of the Philippine ICT Network, Inc., where she champions the country's readiness for the technological transformations brought about by quantum computing, artificial intelligence, and other emerging technologies.</p>
 </div>
 </div>
 
