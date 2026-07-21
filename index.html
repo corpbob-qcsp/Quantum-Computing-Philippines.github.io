@@ -10,9 +10,40 @@ description: "Welcome to a global community of Quantum Computing!"
 <div class="container">
     
 {% if page.url == "/" %}
-    
+
+<!-- Upcoming Events teaser -->
+{% assign today = "now" | date: "%s" %}
+{% assign upcoming_events = "" | split: "" %}
+{% for event in site.data.events %}
+  {% assign event_ts = event.date | date: "%s" %}
+  {% if event_ts >= today %}
+    {% assign upcoming_events = upcoming_events | push: event %}
+  {% endif %}
+{% endfor %}
+{% assign upcoming_events = upcoming_events | sort: "date" %}
+{% if upcoming_events.size > 0 %}
+<div class="d-flex flex-wrap align-items-center remove-site-content-margin" style="gap: 0.5rem 1.4rem; background: #f6f3fa; border-bottom: 1px solid #e6ddf3; padding: 0.6rem 1.5rem; font-size: 0.85rem;">
+    <span class="text-danger font-weight-bold text-uppercase" style="font-size: 0.72rem; letter-spacing: 0.06em;">Upcoming</span>
+    {% for event in upcoming_events limit: 2 %}
+    {% assign event_link = event.learn_more_url | default: event.register_url %}
+    <span>
+        <strong style="color: #6534a0;">
+        {% if event.end_date %}
+          {% assign same_month = event.date | date: "%Y-%m" %}
+          {% assign end_month = event.end_date | date: "%Y-%m" %}
+          {% if same_month == end_month %}{{ event.date | date: "%b %-d" }}&ndash;{{ event.end_date | date: "%-d" }}{% else %}{{ event.date | date: "%b %-d" }}&ndash;{{ event.end_date | date: "%b %-d" }}{% endif %}
+        {% else %}{{ event.date | date: "%b %-d" }}{% endif %}
+        </strong>
+        {% if event.private %}{{ event.title }} <span class="text-muted">(Invite-only)</span>{% elsif event_link %}<a href="{{ event_link }}">{{ event.title }}</a>{% else %}{{ event.title }}{% endif %}
+    </span>
+    {% unless forloop.last %}<span class="text-muted">&middot;</span>{% endunless %}
+    {% endfor %}
+    <a href="{{site.baseurl}}/events.html" class="font-weight-bold ml-md-auto" style="color: #6534a0;">See all events &rarr;</a>
+</div>
+{% endif %}
+
 <!-- Home Intro -->
-<div class="jumbotron jumbotron-fluid pt-0 pb-0 mb-2rem bg-lightblue position-relative remove-site-content-margin">
+<div class="jumbotron jumbotron-fluid pt-0 pb-0 mb-2rem bg-lightblue position-relative{% if upcoming_events.size == 0 %} remove-site-content-margin{% endif %}">
     <div class="pl-4 pr-0 h-100 tofront">
         <div class="row justify-content-between">
             <div class="col-md-5 pt-6 pb-6 align-self-center">

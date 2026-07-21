@@ -1,0 +1,45 @@
+# Upcoming QCSP events, shown on /events.html and the homepage teaser strip.
+# Events are shown in the order listed here; past events (date before today) are hidden automatically.
+#
+# Each entry:
+# - title: "Event Name"
+#   date: 2026-08-14        # YYYY-MM-DD, start date
+#   end_date: 2026-08-16    # optional; add for multi-day events to show a date range
+#   time: "9:00 AM"         # optional, free text
+#   venue: "Venue name, City"
+#   description: "One or two sentence description of the event."
+#   register_url: "https://..."   # optional; omit to hide the Register button
+#   learn_more_url: "https://..." # optional; omit to hide the Learn more link
+#   private: true                 # optional; for invite-only events with no public registration.
+#                                  # Shows an "Invite-only" badge instead of the Register button
+#                                  # (register_url is ignored when private is true). The event is
+#                                  # still listed with its title, date, venue, and description.
+#
+# Example (remove the leading # on each line to activate):
+# - title: "Quantum Readiness Workshop 2026"
+#   date: 2026-08-14
+#   time: "9:00 AM"
+#   venue: "Ateneo de Manila University"
+#   description: "A hands-on workshop introducing post-quantum cryptography and quantum-safe communications."
+#   register_url: "https://example.com/register"
+#
+# Example private event:
+# - title: "QCSP Board Strategy Retreat"
+#   date: 2026-09-01
+#   venue: "Private venue"
+#   description: "An internal planning session for QCSP's board and senior advisers."
+#   private: true
+
+- title: "Quantum Roadshow"
+  date: 2026-08-17
+  end_date: 2026-08-21
+  venue: "Manila, Bulacan & Quezon City"
+  description: "A five-day, three-leg roadshow bridging global research standards with local development needs. Legs run at Colegio de San Juan de Letran (Aug 17), Bulacan State University (Aug 19), and UP Diliman (Aug 21), featuring IEEE-led keynotes, workshops, and a quantum education gap analysis for the Philippines."
+  register_url: "https://roadshow.qistcon.ph/"
+
+- title: "QISTCon 2026"
+  date: 2026-11-09
+  end_date: 2026-11-11
+  venue: "Cebu City, Philippines"
+  description: "The premier Quantum Innovation, Science, and Technology Conference in the Philippines, bringing together researchers, industry, and policymakers to build a responsible quantum ecosystem for the ASEAN region. Includes a pre-conference day (Nov 9) followed by the two-day main program (Nov 10–11) of keynotes, panels, and working-group sessions."
+  register_url: "https://qistcon.ph/"
