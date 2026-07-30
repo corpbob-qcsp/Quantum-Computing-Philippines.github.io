@@ -34,7 +34,7 @@ description: "Welcome to a global community of Quantum Computing!"
           {% if same_month == end_month %}{{ event.date | date: "%b %-d" }}&ndash;{{ event.end_date | date: "%-d" }}{% else %}{{ event.date | date: "%b %-d" }}&ndash;{{ event.end_date | date: "%b %-d" }}{% endif %}
         {% else %}{{ event.date | date: "%b %-d" }}{% endif %}
         </strong>
-        {% if event.private %}{{ event.title }} <span class="text-muted">(Invite-only)</span>{% elsif event_link %}<a href="{{ event_link }}">{{ event.title }}</a>{% else %}{{ event.title }}{% endif %}
+        {% if event.private %}{{ event.title }} <span class="text-muted">(Invite-only)</span>{% elsif event_link %}<a href="{{ event_link }}" target="_blank" rel="noopener">{{ event.title }}</a>{% else %}{{ event.title }}{% endif %}
     </span>
     {% unless forloop.last %}<span class="text-muted">&middot;</span>{% endunless %}
     {% endfor %}

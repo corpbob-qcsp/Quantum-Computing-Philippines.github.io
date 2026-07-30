@@ -107,9 +107,9 @@ QCSP hosts workshops, hackathons, and community gatherings throughout the year. 
       {% if event.private %}
         <span class="badge-private">Invite-only</span>
       {% elsif event.register_url %}
-        <a class="btn btn-dark btn-sm" href="{{ event.register_url }}">Register</a>
+        <a class="btn btn-dark btn-sm" href="{{ event.register_url }}" target="_blank" rel="noopener">Register</a>
       {% endif %}
-      {% if event.learn_more_url %}<a class="btn btn-outline-secondary btn-sm" href="{{ event.learn_more_url }}">Learn more</a>{% endif %}
+      {% if event.learn_more_url %}<a class="btn btn-outline-secondary btn-sm" href="{{ event.learn_more_url }}" target="_blank" rel="noopener">Learn more</a>{% endif %}
     </div>
   </div>
 </div>

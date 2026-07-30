@@ -30,6 +30,20 @@
 #   description: "An internal planning session for QCSP's board and senior advisers."
 #   private: true
 
+- title: "QC4SG Vietnam 2026 — The 2nd SEA Quantathon"
+  date: 2026-07-24
+  end_date: 2026-07-28
+  time: "7:00 AM – 5:00 PM"
+  venue: "Gia Lai (Quy Nhon), Vietnam"
+  description: "The second SEA Quantathon and the first edition held in Vietnam, organized by VNQuantum in collaboration with OQI (CERN). Teams combine quantum computing, AI, and machine learning to build solutions aligned with the UN Sustainable Development Goals, guided by mentors from across the region — including QCSP's own Bobby Corpus and Jabez Ayson serving as coordinators."
+  register_url: "https://vnquantum.org/events/quantum-hackathon-qc4sg/"
+
+- title: 'My.Quantum Lecture Series: Protect Your Work, Your Identity, and Your Reputation'
+  date: 2026-07-31
+  time: "6:00 PM"
+  description: 'A talk by Josef Elijah "Zelijah" Delos Santos Fabian, Software Engineer and Founder of Majikah Solutions OPC, on protecting your work, your identity, and your reputation.'
+  register_url: "https://luma.com/vo6l0rkc"
+
 - title: "Quantum Roadshow"
   date: 2026-08-17
   end_date: 2026-08-21
