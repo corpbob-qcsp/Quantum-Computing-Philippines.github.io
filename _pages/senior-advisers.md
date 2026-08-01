@@ -55,6 +55,15 @@ QCSP is guided by a group of senior advisers whose experience spans industry, te
 </div>
 
 <div class="col-md-6 mb-5 d-flex">
+<img class="rounded-circle mr-3" src="{{site.baseurl}}/assets/images/bryan_siegelwax.jpg" alt="Brian Siegelwax" width="110" height="110">
+<div>
+<h4 class="font-weight-bold mb-1">Brian Siegelwax</h4>
+<p class="text-muted mb-2"><em>Quantum Algorithm Designer &middot; Co-Founder, OneQuantum Philippines</em></p>
+<p>Brian Siegelwax is a quantum algorithm designer, independent quantum developer, author, publisher, and podcaster known for The Quantum Dragon and other quantum-themed books. He is also a co-founder of OneQuantum Philippines.</p>
+</div>
+</div>
+
+<div class="col-md-6 mb-5 d-flex">
 <img class="rounded-circle mr-3" src="{{site.baseurl}}/assets/images/advisers/dan-zarraga.jpg" alt="Dan Zarraga, Ph.D." width="110" height="110">
 <div>
 <h4 class="font-weight-bold mb-1">Dan Zarraga, Ph.D.</h4>
