@@ -1,8 +1,9 @@
 ---
 title: "About"
 permalink: "/about.html"
-image: assets/images/wTagline.png
 ---
+
+<img src="{{site.baseurl}}/assets/images/wTagline.png" alt="Quantum Computing Society of the Philippines" class="d-block mx-auto mb-4" style="max-width: 220px;">
 
 ## Who We Are
 

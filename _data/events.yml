@@ -1,5 +1,6 @@
-# Upcoming QCSP events, shown on /events.html and the homepage teaser strip.
-# Events are shown in the order listed here; past events (date before today) are hidden automatically.
+# QCSP events, shown on /events.html and the homepage teaser strip.
+# Do not delete events once their date has passed — QCSP events stays in this file
+# permanently and events.html automatically sorts each one into "Upcoming" or "Past".
 #
 # Each entry:
 # - title: "Event Name"
@@ -10,6 +11,13 @@
 #   description: "One or two sentence description of the event."
 #   register_url: "https://..."   # optional; omit to hide the Register button
 #   learn_more_url: "https://..." # optional; omit to hide the Learn more link
+#   recap_url: "/news/..."        # optional; once an event is over, link to its news recap
+#                                  # (internal path like "/news/2026-07-24-example/" or a full URL).
+#                                  # Shown as a "Read recap" link in the Past Events list.
+#   role: "Attending"             # optional; set this when QCSP did not host/organize the event
+#                                  # (e.g. "Attending", "Co-organizer", "Speaking", "Mentoring").
+#                                  # Shown as a small badge on the card. Omit entirely for events
+#                                  # QCSP is hosting/organizing itself — no badge is shown for those.
 #   private: true                 # optional; for invite-only events with no public registration.
 #                                  # Shows an "Invite-only" badge instead of the Register button
 #                                  # (register_url is ignored when private is true). The event is
@@ -30,6 +38,165 @@
 #   description: "An internal planning session for QCSP's board and senior advisers."
 #   private: true
 
+- title: "23rd Philippine Computing Science Congress"
+  date: 2023-03-23
+  end_date: 2023-03-24
+  venue: "University of San Jose-Recoletos, Cebu City"
+  description: "QCSP (OneQuantum PH) took part in the pre-congress event of the 23rd Philippine Computing Science Congress, presenting a hands-on demonstration on programming quantum circuits with Qiskit."
+  role: "Speaking"
+  recap_url: "/news/2023-pcs-asti/"
+
+- title: "Quantum.Tech Singapore"
+  date: 2023-04-04
+  end_date: 2023-04-05
+  venue: "Equarius Hotel, Singapore"
+  description: "QCSP (OneQuantum PH) joined as a panelist at Quantum.Tech Singapore, speaking on the global quantum talent gap and the public sector's role in national quantum roadmaps."
+  role: "Speaking"
+  recap_url: "/news/2023-04-07-quantum-tech-sg/"
+
+- title: "DOST-ASTI Memorandum of Agreement Signing"
+  date: 2023-07-13
+  venue: "Orchard Hotel, Baguio"
+  description: "QCSP and DOST-ASTI signed a memorandum of agreement to jointly advance quantum computing education, hackathons, and university partnerships in the Philippines."
+  role: "Co-organizer"
+  recap_url: "/news/2023-07-13-moa-asti/"
+
+- title: "Meetup with Classiq.io"
+  date: 2023-08-10
+  time: "6:00 PM"
+  venue: "Online"
+  description: "An online meetup and hands-on workshop introducing the Classiq.io quantum computing platform to students, teachers, and quantum enthusiasts."
+  recap_url: "/news/2023-07-24-meetup-classic/"
+
+- title: "Philippines' First Quantum Computing Hackathon"
+  date: 2023-11-20
+  venue: "Cebu Institute of Technology-University, Cebu City"
+  description: "The Philippines' first quantum computing hackathon capped a six-week lecture series, bringing together students from Cebu-area universities with speakers from IBM Quantum, DOST-ASTI, Qubits Ventures, and OneQuantum."
+  role: "Speaking"
+  recap_url: "/news/2023-11-20-cebu-hackathon-day/"
+
+- title: "BulSU Quantum Leap Lecture Series — Face-to-Face Session"
+  date: 2024-02-02
+  venue: "Bulacan State University, Malolos"
+  description: "QCSP delivered a face-to-face training session as part of the BulSU Quantum Leap Lecture Series, a 12-Saturday quantum computing curriculum for BulSU faculty and students."
+  role: "Co-organizer"
+  recap_url: "/news/2024-02-04-bulsu-quantum-education/"
+
+- title: "1st IEC/ISO JTC 3 Plenary Meeting"
+  date: 2024-05-28
+  end_date: 2024-05-30
+  venue: "Seoul, Republic of Korea"
+  description: "QCSP-nominated representative Elmer Peramo participated as an observer in the 1st IEC/ISO JTC 3 Plenary Meeting on quantum technology standardization, organized by the Korean Agency for Technology and Standards."
+  role: "Attending"
+  recap_url: "/news/2024-06-04-Elmer-Peramo-ISO/"
+
+- title: "ASTICON 2024 — iTANONG AI & Quantum MOA Signing"
+  date: 2024-07-20
+  description: "QCSP joined the inaugural ASTICON event and signed a memorandum of agreement with DOST-ASTI's iTANONG project to launch a joint lecture series and hackathon combining AI and quantum computing."
+  role: "Attending"
+  recap_url: "/news/2024-07-20-AI-and-Quantum/"
+
+- title: "IEEE Quantum Week 2024"
+  date: 2024-09-15
+  end_date: 2024-09-20
+  venue: "Montreal, Canada"
+  description: "QCSP representative Dylan Josh Lopez presented QCSP's paper on promoting quantum information science and technology in the Philippines at IEEE Quantum Week 2024."
+  role: "Speaking"
+  recap_url: "/news/2024-09-22-IEEE-Week-2024/"
+
+- title: "Responsible Quantum Technologies: Impact of Geopolitics in the Indo-Pacific Region"
+  date: 2024-10-15
+  end_date: 2024-10-16
+  venue: "SInnovate, Singapore"
+  description: "QCSP was represented by Jabez Ayson and Noelyn de Jesus at this RSIS/CQT conference on responsible quantum technologies, with de Jesus presenting on QCSP's role and vision in the Philippines and ASEAN."
+  role: "Speaking"
+  recap_url: "/news/2024-10-16-resqt-singapore/"
+
+- title: "Tacloban Quantum Computing Hackathon 2024"
+  date: 2024-10-18
+  venue: "University of the Philippines Tacloban"
+  description: "QCSP organized the Tacloban Quantum Computing Hackathon 2024 in partnership with DOST-ASTI, DICT Region 8, Dev8, and UP Intersoc, bringing quantum computing and AI education to Eastern Visayas."
+  recap_url: "/news/2024-10-18-up-tacloban-hackathon/"
+
+- title: "EmbarQuantum Workshop"
+  date: 2024-11-22
+  venue: "Pangasinan State University, Lingayen"
+  description: "QCSP's Dylan Josh Lopez led technical sessions on variational quantum circuits, quantum machine learning, and CUDA-Quantum at PSU's EmbarQuantum workshop."
+  role: "Co-organizer"
+  recap_url: "/news/2024-11-22-psu-quantum-workshop/"
+
+- title: "NVIDIA GTC 2025 — Quantum Day"
+  date: 2025-03-17
+  end_date: 2025-03-21
+  venue: "San Jose, California, USA"
+  description: "QCSP attended NVIDIA's first-ever Quantum Day at GTC 2025, featuring a panel with NVIDIA CEO Jensen Huang and the announcement of the NVIDIA Accelerated Quantum Research Center."
+  role: "Attending"
+  recap_url: "/news/2025-03-22-nvidia-gtc-2025/"
+
+- title: "ACDSA 2026"
+  date: 2026-02-05
+  end_date: 2026-02-07
+  venue: "Boracay, Philippines"
+  description: "QCSP Fellow Dr. Ian Agulo and QCSP Volunteer Kalie Jardinico presented two accepted papers on quantum-safe security at the International Conference on AI, Computer, Data Sciences, and Applications (ACDSA 2026)."
+  role: "Speaking"
+  recap_url: "/news/2026-03-04-acdsa-boracay/"
+
+- title: "Quantum-Safe Communications: Bridging QKD and Post-Quantum Cryptography"
+  date: 2026-06-04
+  venue: "DevCon Philippines Office, Ortigas, Pasig City"
+  description: "QCSP and DevCon Philippines jointly hosted a face-to-face meetup on the future of secure communications in the quantum era."
+  role: "Co-organizer"
+  recap_url: "/news/2026-06-04-qcsp-devcon-meetup/"
+
+- title: "Quantum Computing and Cybersecurity Hackathon 2026 — Luzon Leg"
+  date: 2026-06-06
+  venue: "Nueva Ecija University of Science and Technology, Cabanatuan City"
+  description: "NEUST hosted the Luzon leg of the nationwide Quantum Computing and Cybersecurity Hackathon 2026, capping a multi-week lecture series jointly organized by QCSP and the ISC2 Philippines Chapter."
+  role: "Co-organizer"
+  recap_url: "/news/2026-06-06-neust-quantum-cybersecurity-hackathon/"
+
+- title: "Quantum Computing and Cybersecurity Hackathon 2026 — Visayas Leg"
+  date: 2026-06-13
+  venue: "University of the Philippines Visayas, Iloilo City"
+  description: "UP Visayas hosted the Visayas leg of the nationwide Quantum Computing and Cybersecurity Hackathon 2026, organized by QCSP and the ISC2 Philippines Chapter."
+  role: "Co-organizer"
+  recap_url: "/news/2026-06-13-upv-quantum-cybersecurity-hackathon/"
+
+- title: "Quantum Programming for PSHS Interns via SpinQ Gemini"
+  date: 2026-06-23
+  venue: "Philippine Science High School System Summer Internship Program"
+  description: "QCSP President Bobby Corpus introduced quantum programming and the SpinQ Gemini desktop quantum computer to Philippine Science High School interns."
+  role: "Speaking"
+  recap_url: "/news/2026-06-23-qcsp-pshs-spinq-gemini/"
+
+- title: "Quantum Computing and Cybersecurity Hackathon 2026 — Mindanao Leg"
+  date: 2026-06-27
+  venue: "Ateneo de Davao University, Davao City"
+  description: "Ateneo de Davao University hosted the Mindanao leg of the nationwide Quantum Computing and Cybersecurity Hackathon 2026, organized by QCSP and the ISC2 Philippines Chapter."
+  role: "Co-organizer"
+  recap_url: "/news/2026-06-27-addu-quantum-cybersecurity-hackathon/"
+
+- title: "DOST-PCIEERD 16th Anniversary — Quantum Technologies Booth"
+  date: 2026-06-29
+  venue: "DOST-PCIEERD"
+  description: "QCSP set up an exhibition booth showcasing the SpinQ Gemini Mini portable quantum computer at DOST-PCIEERD's 16th anniversary celebration."
+  role: "Exhibiting"
+  recap_url: "/news/2026-06-29-qcsp-pcieerd-16th-anniversary/"
+
+- title: "Introductory Quantum Computing Session at DLSU"
+  date: 2026-07-01
+  venue: "De La Salle University, Taft Avenue, Manila"
+  description: "QCSP President Bobby Corpus introduced quantum computing fundamentals and demonstrated the SpinQ Gemini to students and faculty at De La Salle University."
+  role: "Speaking"
+  recap_url: "/news/2026-07-01-dlsu-spinq-gemini-mini/"
+
+- title: "Quantum Investment & Philippine Competitiveness Dinner"
+  date: 2026-07-02
+  venue: "Hooga"
+  description: "QCSP co-organized a VIP investor dinner with Qubits Ventures, bringing together investors, enterprise leaders, researchers, and policymakers for a strategic dialogue on the Philippine quantum economy."
+  role: "Co-organizer"
+  recap_url: "/news/2026-07-02-qcsp-qubits-ventures-investor-dinner/"
+
 - title: "QC4SG Vietnam 2026 — The 2nd SEA Quantathon"
   date: 2026-07-24
   end_date: 2026-07-28
@@ -37,6 +204,8 @@
   venue: "Gia Lai (Quy Nhon), Vietnam"
   description: "The second SEA Quantathon and the first edition held in Vietnam, organized by VNQuantum in collaboration with OQI (CERN). Teams combine quantum computing, AI, and machine learning to build solutions aligned with the UN Sustainable Development Goals, guided by mentors from across the region — including QCSP's own Bobby Corpus and Jabez Ayson serving as coordinators."
   register_url: "https://vnquantum.org/events/quantum-hackathon-qc4sg/"
+  recap_url: "/news/2026-07-24-quantathon-2026-vietnam/"
+  role: "Co-organizer"
 
 - title: 'My.Quantum Lecture Series: Protect Your Work, Your Identity, and Your Reputation'
   date: 2026-07-31
