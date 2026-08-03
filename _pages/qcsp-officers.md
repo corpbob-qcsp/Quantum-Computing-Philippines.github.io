@@ -37,6 +37,19 @@ permalink: "/qcsp-officers.html"
 }
 .node .node-name { font-weight: 700; font-size: 0.88rem; color: #2b2733; margin-bottom: 0.2rem; line-height: 1.2; }
 .node .node-title { font-size: 0.72rem; color: #888; line-height: 1.3; text-transform: uppercase; letter-spacing: 0.02em; }
+.badge-board {
+  display: inline-block;
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #6534a0;
+  background: #f6f3fa;
+  border: 1px solid #e6ddf3;
+  border-radius: 20px;
+  padding: 0.15rem 0.55rem;
+  margin-top: 0.4rem;
+}
 .node-lg .avatar, .node-lg .avatar-initials { width: 84px; height: 84px; font-size: 1.2rem; }
 .node-lg .node-name { font-size: 1.05rem; }
 .node-lg .node-title { font-size: 0.76rem; }
@@ -65,6 +78,21 @@ QCSP's officers lead the organization day-to-day, coordinating program developme
       <img class="avatar" src="{{site.baseurl}}/assets/images/board/bernardino-buenaobra.jpg" alt="Bernardino Buenaobra">
       <div class="node-name">Bernardino Buenaobra</div>
       <div class="node-title">Vice-President</div>
+    </div>
+  </div>
+</div>
+
+<div class="connector">
+  <div class="v-root"></div>
+  <div class="v-stub" style="left: 50%;"></div>
+</div>
+
+<div class="top-tier">
+  <div class="node-wrap">
+    <div class="node node-lg">
+      <img class="avatar" src="{{site.baseurl}}/assets/images/stefany_caparida.png" alt="Stefany Mae Caparida">
+      <div class="node-name">Stefany Mae Caparida</div>
+      <div class="node-title">Executive Director</div>
     </div>
   </div>
 </div>
@@ -111,6 +139,7 @@ QCSP's officers lead the organization day-to-day, coordinating program developme
       <img class="avatar" src="{{site.baseurl}}/assets/images/board/dylan-lopez.jpg" alt="Dylan Josh Lopez">
       <div class="node-name">Dylan Josh Lopez</div>
       <div class="node-title">Director, Partnerships and Collaboration</div>
+      <div class="badge-board">Board Member</div>
     </div>
   </div>
   <div class="node-wrap">
@@ -118,6 +147,7 @@ QCSP's officers lead the organization day-to-day, coordinating program developme
       <img class="avatar" src="{{site.baseurl}}/assets/images/board/edison-macabebe.jpg" alt="Edison Macabebe">
       <div class="node-name">Edison Macabebe</div>
       <div class="node-title">Director, Special Projects</div>
+      <div class="badge-board">Board Member</div>
     </div>
   </div>
   <div class="node-wrap">
@@ -125,6 +155,7 @@ QCSP's officers lead the organization day-to-day, coordinating program developme
       <img class="avatar" src="{{site.baseurl}}/assets/images/board/andrew-oconer.jpg" alt="Andrew Justin Oconer">
       <div class="node-name">Andrew Justin Oconer</div>
       <div class="node-title">Director, Community Affairs</div>
+      <div class="badge-board">Board Member</div>
     </div>
   </div>
   <div class="node-wrap">

@@ -22,6 +22,14 @@ bobby:
   email:          fakemail@gmail.com
   twitter:        https://twitter.com/bcorpus_jr
 
+qcsp:
+  name:           QCSP
+  site:           https://www.qcsp.ph
+  avatar:         /assets/images/qcsp_avatar.png
+  bio:            "This article was written and published by the Quantum Computing Society of the Philippines (QCSP), also known as OneQuantum Philippines, the national multi-stakeholder quantum community advancing quantum technologies for the benefit of the Philippines."
+  email:          team@qcsp.ph
+  twitter:        https://www.linkedin.com/company/qcsp
+
 jabez:
   name:           Jabez Ayson
   site:           https://www.wowthemes.net
