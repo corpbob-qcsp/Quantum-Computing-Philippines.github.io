@@ -1,0 +1,50 @@
+---
+title: "Quantum Readiness for the Financial Sector: From Fundamentals to Future Applications"
+subtitle: "Bangko Sentral ng Pilipinas (BSP), Hub Auditorium, BSP Head Office, 28 August 2026"
+permalink: "/workshop-bsp-2026.html"
+image: assets/images/workshop-bsp-2026/bsp-head-office.jpg
+---
+
+<blockquote>
+<table>
+<tr><td>Bangko Sentral ng Pilipinas (BSP)</td></tr>
+<tr><td>Hub Auditorium, BSP Head Office</td></tr>
+<tr><td>28 August 2026</td></tr>
+</table>
+</blockquote>
+
+This one-day **Quantum Computing Workshop for the Bangko Sentral ng Pilipinas (BSP)** provides participants with a practical and grounded introduction to quantum computing and its emerging relevance to the financial sector.
+
+The program begins with the foundations of quantum computing&mdash;including superposition, entanglement, interference, measurement, and computational complexity&mdash;before progressing to **quantum circuits, algorithms, and hands-on programming using Qiskit**. Participants will gain practical experience building and running quantum circuits while developing an understanding of where quantum computers may offer advantages over classical approaches.
+
+The workshop then shifts from technology fundamentals to **quantum readiness**, examining the current maturity and realistic timelines of quantum technologies, the implications of quantum computing for cybersecurity, **quantum-safe cryptography and migration**, and common misconceptions surrounding the field.
+
+The day concludes with a focused discussion on **quantum computing use cases in finance**, exploring potential applications, opportunities, limitations, and what these developments could mean for banking and financial services.
+
+Designed to balance technical understanding with strategic perspective, the workshop aims to equip BSP participants with a clearer view of **what quantum computing can do today, where the technology is heading, and how financial institutions can begin preparing for the quantum era.**
+
+<hr/>
+
+### Program
+
+<style>.program-table td:first-child { white-space: nowrap; }</style>
+<table valign="top" class="program-table">
+<tr><td>8:00 AM</td><td>&nbsp;&nbsp;&nbsp;Registration and Welcome Coffee</td></tr>
+<tr><td>8:30 AM</td><td>&nbsp;&nbsp;&nbsp;<b>Opening and Welcome Remarks</b><br/>&nbsp;&nbsp;&nbsp;Eugene Teves (CIO, Bangko Sentral ng Pilipinas)</td></tr>
+<tr style="vertical-align:top"><td>8:35 AM</td><td>&nbsp;&nbsp;&nbsp;<b>Introduction to Quantum Computing</b> (superposition, entanglement, tunneling, interference, measurement)<br/>&nbsp;&nbsp;&nbsp;An introduction to the fundamental principles that make quantum computing different from classical computing &mdash; superposition, entanglement, quantum tunneling, interference, and measurement.<br/>&nbsp;&nbsp;&nbsp;<i>Marc Pontiveros</i></td></tr>
+<tr><td>9:35 AM</td><td>&nbsp;&nbsp;&nbsp;Question and Answer &mdash; Marc Pontiveros</td></tr>
+<tr><td>9:40 AM</td><td>&nbsp;&nbsp;&nbsp;Coffee Break</td></tr>
+<tr style="vertical-align:top"><td>9:55 AM</td><td>&nbsp;&nbsp;&nbsp;<b>Complexity of Algorithms</b><br/>&nbsp;&nbsp;&nbsp;An overview of computational complexity and why quantum computing matters, comparing classical and quantum approaches and examining which types of problems benefit most from quantum computing.<br/>&nbsp;&nbsp;&nbsp;<i>Elmer Peramo</i></td></tr>
+<tr><td>10:50 AM</td><td>&nbsp;&nbsp;&nbsp;Question and Answer &mdash; Elmer Peramo</td></tr>
+<tr style="vertical-align:top"><td>10:55 AM</td><td>&nbsp;&nbsp;&nbsp;<b>Quantum Circuits and Algorithms</b><br/>&nbsp;&nbsp;&nbsp;An introduction to the quantum circuit model, how quantum information is manipulated using quantum gates, and common algorithms such as Deutsch-Jozsa and Bernstein-Vazirani.<br/>&nbsp;&nbsp;&nbsp;<i>Marc Pontiveros</i></td></tr>
+<tr><td>11:55 AM</td><td>&nbsp;&nbsp;&nbsp;Question and Answer &mdash; Marc Pontiveros</td></tr>
+<tr><td>12:00 PM</td><td>&nbsp;&nbsp;&nbsp;Lunch Break</td></tr>
+<tr style="vertical-align:top"><td>1:00 PM</td><td>&nbsp;&nbsp;&nbsp;<b>Quantum Programming (Introduction to Qiskit)</b><br/>&nbsp;&nbsp;&nbsp;A hands-on introduction to programming quantum computers using Qiskit, IBM's open-source quantum computing framework &mdash; creating and simulating quantum circuits, running them on real quantum hardware, and interpreting results.<br/>&nbsp;&nbsp;&nbsp;<i>Jeff Aborot</i></td></tr>
+<tr><td>2:00 PM</td><td>&nbsp;&nbsp;&nbsp;<b>Lab: Quantum Programming</b> &mdash; Jeff Aborot</td></tr>
+<tr style="vertical-align:top"><td>3:00 PM</td><td>&nbsp;&nbsp;&nbsp;<b>Quantum Readiness: Risks, Realities, and the Road Ahead</b><br/>&nbsp;&nbsp;&nbsp;Examines the current state and realistic timelines of quantum computing, its implications for the financial sector, and the growing need to prepare for the transition to quantum-safe cryptography, including post-quantum cryptography migration.<br/>&nbsp;&nbsp;&nbsp;<i>Philip Casanova</i></td></tr>
+<tr><td>4:00 PM</td><td>&nbsp;&nbsp;&nbsp;Question and Answer</td></tr>
+<tr style="vertical-align:top"><td>4:05 PM</td><td>&nbsp;&nbsp;&nbsp;<b>Use-Cases in Finance</b><br/>&nbsp;&nbsp;&nbsp;An exploration of how quantum computing may impact the financial sector, discussing both the opportunities and current limitations of quantum technologies within banking and financial services.<br/>&nbsp;&nbsp;&nbsp;<i>Dr. Angelina Frank and Team Tan</i></td></tr>
+<tr><td>5:05 PM</td><td>&nbsp;&nbsp;&nbsp;Question and Answer &mdash; Dr. Angelina Frank and Team Tan</td></tr>
+<tr><td>5:15 PM</td><td>&nbsp;&nbsp;&nbsp;<b>Closing Remarks</b> &mdash; Bobby Corpus, President, QCSP</td></tr>
+<tr><td>5:20 PM</td><td>&nbsp;&nbsp;&nbsp;End of Workshop</td></tr>
+</table>

@@ -1,0 +1,31 @@
+# QCSP's "Workshop on Quantum Computing (Algorithms and Programming)" series, shown on
+# /workshops.html. Unlike _data/events.yml, each workshop has its own full dedicated page
+# (with program, committee, registration, etc.) — this file just indexes them so they can
+# be listed and navigated to. Do not delete workshops once past; workshops.html automatically
+# sorts each one into "Upcoming" or "Past".
+#
+# Each entry:
+# - title: "Workshop Name"
+#   date: 2026-05-10       # YYYY-MM-DD, start date
+#   end_date: 2026-05-11   # optional; for multi-day workshops
+#   venue: "Venue name, City"
+#   description: "One or two sentence description of the workshop."
+#   url: "/workshop2026.html"   # the workshop's own dedicated page (internal path or full URL)
+
+- title: "Quantum Readiness for the Financial Sector: From Fundamentals to Future Applications"
+  date: 2026-08-28
+  venue: "Hub Auditorium, BSP Head Office"
+  description: "A one-day Quantum Computing Workshop for the Bangko Sentral ng Pilipinas (BSP), giving participants a practical introduction to quantum computing and its emerging relevance to the financial sector. The program covers quantum computing foundations, hands-on programming with Qiskit, quantum readiness, cybersecurity implications and quantum-safe cryptography, and concludes with a discussion of quantum computing use cases in finance."
+  url: "/workshop-bsp-2026.html"
+
+- title: "Workshop on Quantum Computing (Algorithms and Programming) — 2025"
+  date: 2025-05-08
+  venue: "University of the Cordilleras, Baguio City"
+  description: "An immersive workshop covering quantum computing fundamentals, quantum circuits and algorithms, hands-on quantum programming, and hybrid quantum machine learning with NVIDIA CUDA Quantum."
+  url: "/workshop2025.html"
+
+- title: "Workshop on Quantum Computing (Algorithms and Programming) — 2024"
+  date: 2024-05-12
+  venue: "Adventist University of the Philippines, Silang Cavite"
+  description: "A satellite workshop of the Philippine Computing Science Congress (PCSC) 2024, introducing the local computing community to quantum computing through a keynote on lattice cryptography, paper presentations, and hands-on quantum algorithms and programming tutorials."
+  url: "/workshop2024.html"

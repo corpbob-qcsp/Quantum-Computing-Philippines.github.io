@@ -221,6 +221,13 @@
   description: "A five-day, three-leg roadshow bridging global research standards with local development needs. Legs run at Colegio de San Juan de Letran (Aug 17), Bulacan State University (Aug 19), and UP Diliman (Aug 21), featuring IEEE-led keynotes, workshops, and a quantum education gap analysis for the Philippines."
   register_url: "https://roadshow.qistcon.ph/"
 
+- title: "Quantum Readiness for the Financial Sector: From Fundamentals to Future Applications"
+  date: 2026-08-28
+  time: "8:00 AM – 5:00 PM"
+  venue: "Hub Auditorium, BSP Head Office"
+  description: "A one-day Quantum Computing Workshop for the Bangko Sentral ng Pilipinas (BSP), giving participants a practical introduction to quantum computing and its emerging relevance to the financial sector. The program covers quantum computing foundations, hands-on programming with Qiskit, quantum readiness, cybersecurity implications and quantum-safe cryptography, and concludes with a discussion of quantum computing use cases in finance—equipping BSP participants with a clearer view of what quantum computing can do today, where the technology is heading, and how financial institutions can begin preparing for the quantum era."
+  learn_more_url: "/workshop-bsp-2026.html"
+
 - title: "QISTCon 2026"
   date: 2026-11-09
   end_date: 2026-11-11
