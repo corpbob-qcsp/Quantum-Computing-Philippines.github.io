@@ -214,6 +214,13 @@
   register_url: "https://luma.com/vo6l0rkc"
   recap_url: "/news/2026-07-31-myquantum-webinar-series/"
 
+- title: 'Quantum for Emerging Markets: Webinar with Andre M. König'
+  date: 2026-08-06
+  time: "Evening (Manila time)"
+  venue: "Online"
+  description: 'QCSP and its My Quantum initiative hosted Andre M. König, founder and chairman of OneQuantum and CEO of Global Quantum Intelligence, for a webinar on how emerging markets should approach the quantum computing race — moderated by Atty. Giselle Batapa-Sigue and hosted by QCSP volunteer Trisha May Ariola.'
+  recap_url: "/news/2026-08-06-qcsp-myquantum-emerging-markets-webinar/"
+
 - title: "Quantum Roadshow"
   date: 2026-08-17
   end_date: 2026-08-21
