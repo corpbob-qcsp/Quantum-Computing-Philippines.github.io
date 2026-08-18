@@ -51,7 +51,7 @@ Designed to balance technical understanding with strategic perspective, the work
 <h4 class="font-weight-bold mb-1">Elmer Peramo</h4>
 <p class="text-muted speaker-role mb-2"><em>Assistant Scientist, DOST &middot; Director, Program Development, QCSP</em></p>
 <div class="speaker-session">9:55 AM &middot; Complexity of Algorithms</div>
-<p>Brings a wealth of experience in machine learning as a Senior Science Research Specialist at DOST-ASTI, currently pursuing a PhD in Computer Science at De La Salle University. Has managed AI-related projects spanning weather forecasting, agriculture, and healthcare.</p>
+<p>Brings a wealth of experience in machine learning as a Assistant Scientist at DOST-ASTI, currently pursuing a PhD in Computer Science at De La Salle University. Has managed AI-related projects spanning weather forecasting, agriculture, and healthcare.</p>
 </div>
 </div>
 
