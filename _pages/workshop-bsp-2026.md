@@ -25,6 +25,90 @@ Designed to balance technical understanding with strategic perspective, the work
 
 <hr/>
 
+### Speakers
+
+<style>
+.speaker-grid .speaker-avatar { width: 84px; height: 84px; object-fit: cover; border: 2px solid #f6f3fa; }
+.speaker-grid .speaker-role { font-size: 0.85rem; }
+.speaker-session {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: #6534a0;
+  background: #f6f3fa;
+  border: 1px solid #e6ddf3;
+  border-radius: 20px;
+  padding: 0.15rem 0.65rem;
+  margin-bottom: 0.5rem;
+}
+</style>
+
+<div class="row speaker-grid mt-3">
+
+<div class="col-md-6 mb-5 d-flex">
+<img class="rounded-circle mr-3 speaker-avatar" src="{{site.baseurl}}/assets/images/qcsp-directors/elmer-peramo.jpg" alt="Elmer Peramo">
+<div>
+<h4 class="font-weight-bold mb-1">Elmer Peramo</h4>
+<p class="text-muted speaker-role mb-2"><em>Senior Science Research Specialist, DOST-ASTI &middot; Director, Program Development, QCSP</em></p>
+<div class="speaker-session">9:55 AM &middot; Complexity of Algorithms</div>
+<p>Brings a wealth of experience in machine learning as a Senior Science Research Specialist at DOST-ASTI, currently pursuing a PhD in Computer Science at De La Salle University. Has managed AI-related projects spanning weather forecasting, agriculture, and healthcare.</p>
+</div>
+</div>
+
+<div class="col-md-6 mb-5 d-flex">
+<img class="rounded-circle mr-3 speaker-avatar" src="{{site.baseurl}}/assets/images/workshop-bsp-2026/speakers/jeffrey-aborot.jpg" alt="Jeffrey Aborot">
+<div>
+<h4 class="font-weight-bold mb-1">Jeffrey Aborot</h4>
+<p class="text-muted speaker-role mb-2"><em>Software Engineer &amp; Researcher, DOST-ASTI &middot; Director, Innovation, QCSP</em></p>
+<div class="speaker-session">1:00 PM &middot; Quantum Programming (Intro to Qiskit)</div>
+<p>Software engineer and researcher with DOST-ASTI's Computer Software and Artificial Intelligence groups, currently leading the Gul.ai Project's work on quantum computing and quantum circuit simulation in a high-performance computing environment.</p>
+</div>
+</div>
+
+<div class="col-md-6 mb-5 d-flex">
+<img class="rounded-circle mr-3 speaker-avatar" src="{{site.baseurl}}/assets/images/workshop-bsp-2026/speakers/philip-casanova.jpg" alt="Philip Casanova">
+<div>
+<h4 class="font-weight-bold mb-1">Philip Casanova</h4>
+<p class="text-muted speaker-role mb-2"><em>Partner, SGV &amp; Co./EY Philippines &middot; President, ISC2 Philippines</em></p>
+<div class="speaker-session">2:15 PM &middot; Quantum Readiness: Risks, Realities, and the Road Ahead</div>
+<p>Leads the Cybersecurity Field of Play at SGV &amp; Co./EY Philippines, with more than 30 years of experience as a CISO for financial institutions across the Philippines, Asia, and North America, and doctoral research focused on the adoption of post-quantum cryptography.</p>
+</div>
+</div>
+
+<div class="col-md-6 mb-5 d-flex">
+<img class="rounded-circle mr-3 speaker-avatar" src="{{site.baseurl}}/assets/images/board/dylan-lopez.jpg" alt="Dylan Josh Domingo Lopez">
+<div>
+<h4 class="font-weight-bold mb-1">Dylan Josh Domingo Lopez</h4>
+<p class="text-muted speaker-role mb-2"><em>Director, Partnerships &amp; Collaboration, QCSP &middot; PhD Candidate, Chung Yuan Christian University</em></p>
+<div class="speaker-session">3:00 PM &middot; Quantum Readiness in Finance: Needs Analysis</div>
+<p>Philippine quantum-computing educator and researcher who teaches at De La Salle University&ndash;Manila, focused on hybrid quantum applications, quantum machine learning, and uses of quantum computing in smart cities and energy systems.</p>
+</div>
+</div>
+
+<div class="col-md-6 mb-5 d-flex">
+<img class="rounded-circle mr-3 speaker-avatar" src="{{site.baseurl}}/assets/images/workshop-bsp-2026/speakers/olga-mamlyga.jpg" alt="Olga Mamlyga">
+<div>
+<h4 class="font-weight-bold mb-1">Olga Mamlyga</h4>
+<p class="text-muted speaker-role mb-2"><em>CEO &amp; Co-Founder, Quantum Scouts</em></p>
+<div class="speaker-session">3:20 PM &middot; Post-Quantum Resilience in Finance &amp; Digital Assets</div>
+<p>Cybersecurity and emerging-technology strategist and international speaker specializing in AI, quantum technologies, and financial resilience, working on post-quantum resilience, cryptographic agility, and secure AI for financial institutions.</p>
+</div>
+</div>
+
+<div class="col-md-6 mb-5 d-flex">
+<img class="rounded-circle mr-3 speaker-avatar" src="{{site.baseurl}}/assets/images/workshop-bsp-2026/speakers/angelina-frank.jpg" alt="Dr. Angelina Frank">
+<div>
+<h4 class="font-weight-bold mb-1">Dr. Angelina Frank</h4>
+<p class="text-muted speaker-role mb-2"><em>Head of Science &amp; Technology, QAI Ventures &middot; PhD, Centre for Quantum Technologies, Singapore</em></p>
+<div class="speaker-session">3:50 PM &middot; Use-Cases in Finance</div>
+<p>Works to catalyse quantum innovation ecosystems across the APAC region, and is a founding member of Singapore's National Quantum Young Researchers Association (QYRA), with a track record spanning partnerships, product management, and community organising in the quantum industry.</p>
+</div>
+</div>
+
+</div>
+
+<hr/>
+
 ### Program
 
 <style>.program-table td:first-child { white-space: nowrap; }</style>
