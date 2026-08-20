@@ -46,6 +46,17 @@ Designed to balance technical understanding with strategic perspective, the work
 <div class="row speaker-grid mt-3">
 
 <div class="col-md-6 mb-5 d-flex">
+<img class="rounded-circle mr-3 speaker-avatar" src="{{site.baseurl}}/assets/images/workshop-bsp-2026/speakers/marc-pontiveros.jpg" alt="Marc Jermaine Pontiveros">
+<div>
+<h4 class="font-weight-bold mb-1">Marc Jermaine Pontiveros</h4>
+<p class="text-muted speaker-role mb-2"><em>Senior Software Engineer, White Widget &middot; Qiskit Advocate &middot; MS Computer Science Candidate, University of the Philippines Diliman</em></p>
+<div class="speaker-session">8:35 AM &middot; Introduction to Quantum Computing</div>
+<div class="speaker-session">10:55 AM &middot; Quantum Circuits and Algorithms</div>
+<p>Software engineer by profession and an MS Computer Science student at the University of the Philippines Diliman. In his free time, he is a Qiskit Advocate with interests in quantum computing and responsible quantum software development.</p>
+</div>
+</div>
+
+<div class="col-md-6 mb-5 d-flex">
 <img class="rounded-circle mr-3 speaker-avatar" src="{{site.baseurl}}/assets/images/qcsp-directors/elmer-peramo.jpg" alt="Elmer Peramo">
 <div>
 <h4 class="font-weight-bold mb-1">Elmer Peramo</h4>
