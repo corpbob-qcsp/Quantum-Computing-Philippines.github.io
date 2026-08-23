@@ -227,6 +227,7 @@
   venue: "Manila, Bulacan & Quezon City"
   description: "A five-day, three-leg roadshow bridging global research standards with local development needs. Legs run at Colegio de San Juan de Letran (Aug 17), Bulacan State University (Aug 19), and UP Diliman (Aug 21), featuring IEEE-led keynotes, workshops, and a quantum education gap analysis for the Philippines."
   register_url: "https://roadshow.qistcon.ph/"
+  recap_url: "/news/2026-08-21-quantum-roadshow-2026/"
 
 - title: "Quantum Readiness for the Financial Sector: From Fundamentals to Future Applications"
   date: 2026-08-28
