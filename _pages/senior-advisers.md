@@ -67,8 +67,8 @@ QCSP is guided by a group of senior advisers whose experience spans industry, te
 <img class="rounded-circle mr-3" src="{{site.baseurl}}/assets/images/advisers/dan-zarraga.jpg" alt="Dan Zarraga, Ph.D." width="110" height="110">
 <div>
 <h4 class="font-weight-bold mb-1">Dan Zarraga, Ph.D.</h4>
-<p class="text-muted mb-2"><em>Head of Drug Product Development, Genomic Medicines &middot; Senior Director, BioDP Development</em></p>
-<p>Dan Zarraga, Ph.D. is Head of Drug Product Development for Genomic Medicines and Senior Director of BioDP Development, with more than 20 years of experience as a biopharma development and strategic innovation leader in the pharmaceutical industry.</p>
+<p class="text-muted mb-2"><em>Senior Director, BioPharma Development</em></p>
+<p>Dr. Dan Zarraga, Sr Director in BioPharma development, with 20 years of experience and expertise in Industrial Biotech. He has facilitated Public-Private innovation partnerships such as nSoft, a consortia of industry, academe, and government advancing neutron scattering of soft materials and its industrial applications. He has also been involved in collaborative research in physically informed neural networks (PINNs) applied to biotechnology.</p>
 </div>
 </div>
 

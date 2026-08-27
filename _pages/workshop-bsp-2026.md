@@ -91,7 +91,7 @@ Designed to balance technical understanding with strategic perspective, the work
 <div>
 <h4 class="font-weight-bold mb-1">Dylan Josh Domingo Lopez</h4>
 <p class="text-muted speaker-role mb-2"><em>Director, Partnerships &amp; Collaboration, QCSP &middot; PhD Candidate, Chung Yuan Christian University</em></p>
-<div class="speaker-session">3:00 PM &middot; Quantum Readiness in Finance: Needs Analysis</div>
+<div class="speaker-session">2:55 PM &middot; Quantum Readiness in Finance: Needs Analysis</div>
 <p>Philippine quantum-computing educator and researcher who teaches at De La Salle University&ndash;Manila, focused on hybrid quantum applications, quantum machine learning, and uses of quantum computing in smart cities and energy systems.</p>
 </div>
 </div>
@@ -101,7 +101,7 @@ Designed to balance technical understanding with strategic perspective, the work
 <div>
 <h4 class="font-weight-bold mb-1">Olga Mamlyga</h4>
 <p class="text-muted speaker-role mb-2"><em>CEO &amp; Co-Founder, Quantum Scouts</em></p>
-<div class="speaker-session">3:20 PM &middot; Post-Quantum Resilience in Finance &amp; Digital Assets</div>
+<div class="speaker-session">3:15 PM &middot; Post-Quantum Resilience in Finance &amp; Digital Assets</div>
 <p>Cybersecurity and emerging-technology strategist and international speaker specializing in AI, quantum technologies, and financial resilience, working on post-quantum resilience, cryptographic agility, and secure AI for financial institutions.</p>
 </div>
 </div>
@@ -111,7 +111,7 @@ Designed to balance technical understanding with strategic perspective, the work
 <div>
 <h4 class="font-weight-bold mb-1">Dr. Angelina Frank</h4>
 <p class="text-muted speaker-role mb-2"><em>Head of Science &amp; Technology, QAI Ventures &middot; PhD, Centre for Quantum Technologies, Singapore</em></p>
-<div class="speaker-session">3:50 PM &middot; Use-Cases in Finance</div>
+<div class="speaker-session">3:45 PM &middot; Use-Cases in Finance</div>
 <p>Works to catalyse quantum innovation ecosystems across the APAC region, and is a founding member of Singapore's National Quantum Young Researchers Association (QYRA), with a track record spanning partnerships, product management, and community organising in the quantum industry.</p>
 </div>
 </div>
@@ -137,10 +137,9 @@ Designed to balance technical understanding with strategic perspective, the work
 <tr style="vertical-align:top"><td>1:00 PM</td><td>&nbsp;&nbsp;&nbsp;<b>Quantum Programming (Introduction to Qiskit)</b><br/>&nbsp;&nbsp;&nbsp;A hands-on introduction to programming quantum computers using Qiskit, IBM's open-source quantum computing framework &mdash; creating and simulating quantum circuits, running them on real quantum hardware, and interpreting results.<br/>&nbsp;&nbsp;&nbsp;<i>Jeff Aborot</i></td></tr>
 <tr><td>1:45 PM</td><td>&nbsp;&nbsp;&nbsp;<b>Lab: Quantum Programming</b> &mdash; Jeff Aborot</td></tr>
 <tr style="vertical-align:top"><td>2:15 PM</td><td>&nbsp;&nbsp;&nbsp;<b>Quantum Readiness: Risks, Realities, and the Road Ahead</b><br/>&nbsp;&nbsp;&nbsp;Examines the current state and realistic timelines of quantum computing, its implications for the financial sector, and the growing need to prepare for the transition to quantum-safe cryptography, including post-quantum cryptography migration.<br/>&nbsp;&nbsp;&nbsp;<i>Philip Casanova</i></td></tr>
-<tr style="vertical-align:top"><td>3:00 PM</td><td>&nbsp;&nbsp;&nbsp;<b>Quantum Readiness in Finance: Insights from a Needs Analysis</b><br/>&nbsp;&nbsp;&nbsp;Presents initial findings from a quantum technology needs analysis focused on the financial sector, highlighting current levels of awareness, emerging needs, and potential readiness gaps for financial institutions and regulators in areas such as cybersecurity, skills development, technology adoption, and institutional preparedness.<br/>&nbsp;&nbsp;&nbsp;<i>Dylan Lopez</i></td></tr>
-<tr style="vertical-align:top"><td>3:20 PM</td><td>&nbsp;&nbsp;&nbsp;<b>Architectural Post-Quantum Resilience Across Finance, Blockchain &amp; Digital Assets</b><br/>&nbsp;&nbsp;&nbsp;Explores how financial institutions, blockchain platforms, and digital asset ecosystems can prepare their architectures for the transition to a post-quantum world, highlighting practical approaches such as cryptographic agility, hybrid architectures, and phased post-quantum migration.<br/>&nbsp;&nbsp;&nbsp;<i>Olga Mamlyga</i></td></tr>
-<tr style="vertical-align:top"><td>3:50 PM</td><td>&nbsp;&nbsp;&nbsp;<b>Use-Cases in Finance</b><br/>&nbsp;&nbsp;&nbsp;An exploration of how quantum computing may impact the financial sector, discussing both the opportunities and current limitations of quantum technologies within banking and financial services.<br/>&nbsp;&nbsp;&nbsp;<i>Dr. Angelina Frank and Team Tan</i></td></tr>
-<tr><td>4:50 PM</td><td>&nbsp;&nbsp;&nbsp;Panel</td></tr>
-<tr><td>5:10 PM</td><td>&nbsp;&nbsp;&nbsp;<b>Closing Remarks</b> &mdash; Bobby Corpus, President, QCSP</td></tr>
-<tr><td>5:15 PM</td><td>&nbsp;&nbsp;&nbsp;End of Workshop</td></tr>
+<tr style="vertical-align:top"><td>2:55 PM</td><td>&nbsp;&nbsp;&nbsp;<b>Quantum Readiness in Finance: Insights from a Needs Analysis</b><br/>&nbsp;&nbsp;&nbsp;Presents initial findings from a quantum technology needs analysis focused on the financial sector, highlighting current levels of awareness, emerging needs, and potential readiness gaps for financial institutions and regulators in areas such as cybersecurity, skills development, technology adoption, and institutional preparedness.<br/>&nbsp;&nbsp;&nbsp;<i>Dylan Lopez</i></td></tr>
+<tr style="vertical-align:top"><td>3:15 PM</td><td>&nbsp;&nbsp;&nbsp;<b>Architectural Post-Quantum Resilience Across Finance, Blockchain &amp; Digital Assets</b><br/>&nbsp;&nbsp;&nbsp;Explores how financial institutions, blockchain platforms, and digital asset ecosystems can prepare their architectures for the transition to a post-quantum world, highlighting practical approaches such as cryptographic agility, hybrid architectures, and phased post-quantum migration.<br/>&nbsp;&nbsp;&nbsp;<i>Olga Mamlyga</i></td></tr>
+<tr style="vertical-align:top"><td>3:45 PM</td><td>&nbsp;&nbsp;&nbsp;<b>Use-Cases in Finance</b><br/>&nbsp;&nbsp;&nbsp;An exploration of how quantum computing may impact the financial sector, discussing both the opportunities and current limitations of quantum technologies within banking and financial services.<br/>&nbsp;&nbsp;&nbsp;<i>Dr. Angelina Frank and Team Tan</i></td></tr>
+<tr><td>4:25 PM</td><td>&nbsp;&nbsp;&nbsp;<b>Closing Remarks</b> &mdash; Bobby Corpus, President, QCSP</td></tr>
+<tr><td>4:30 PM</td><td>&nbsp;&nbsp;&nbsp;End of Workshop</td></tr>
 </table>
