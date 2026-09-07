@@ -30,6 +30,13 @@ qcsp:
   email:          team@qcsp.ph
   twitter:        https://www.linkedin.com/company/qcsp
 
+earl:
+  name:           Earl Robles
+  site:           https://www.qcsp.ph
+  avatar:         /assets/images/earl_robles.jpg
+  bio:            "Earl Robles is an embedded security professional with more than 15 years of experience in Europe, including work on cryptographic protocols for National IDs, ePassports, and payment cards. He currently works in cryptography at Infineon Technologies and has worked on intellectual property related to zero-knowledge proofs. He studied Computer Engineering at the University of the Philippines Diliman and holds an MBA from the Katz Graduate School of Business."
+  email:          team@qcsp.ph
+
 jabez:
   name:           Jabez Ayson
   site:           https://www.wowthemes.net
