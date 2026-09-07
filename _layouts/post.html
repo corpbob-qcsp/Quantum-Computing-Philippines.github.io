@@ -1,6 +1,26 @@
 ---
 layout: default
 ---
+<style>
+/* Kramdown emits plain <table> markup with no Bootstrap class, so it only
+   inherits `table { border-collapse: collapse; }` from main.css with no
+   cell padding or borders. Give article tables the same breathing room
+   Bootstrap's .table class provides everywhere else on the site. */
+.article-post table {
+  width: 100%;
+  margin: 1.25rem 0;
+}
+.article-post table th,
+.article-post table td {
+  padding: 0.75rem 1rem;
+  vertical-align: top;
+  border-top: 1px solid #dee2e6;
+}
+.article-post table thead th {
+  vertical-align: bottom;
+  border-bottom: 2px solid #dee2e6;
+}
+</style>
 {% assign author = site.data.authors[page.author] %}
 <div class="container">
 <div class="jumbotron jumbotron-fluid mb-3 pl-0 pt-0 pb-0 bg-white position-relative">
