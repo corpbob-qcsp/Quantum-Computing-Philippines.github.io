@@ -1,19 +1,21 @@
 ---
 layout: post
-title:  "BSP and QCSP Bring Quantum Readiness to the Philippine Central Bank"
+title:  "QCSP Brings Quantum Readiness to the Philippine Central Bank"
 date:   2026-08-28 00:00:00 -0800
 author: qcsp
 image: assets/images/bsp-quantum-readiness-workshop/group-photo-hero.jpg
 categories: News
 comments: false
 ---
-MANILA, Philippines — The Bangko Sentral ng Pilipinas (BSP), in collaboration with the Quantum Computing Society of the Philippines (QCSP), brought quantum computing and quantum readiness closer to the Philippine financial sector through a one-day workshop held on August 28, 2026, at the Hub Auditorium of the BSP Head Office in Manila.
+MANILA, Philippines — The Quantum Computing Society of the Philippines (QCSP) conducted a one-day quantum computing and quantum readiness workshop for the Bangko Sentral ng Pilipinas (BSP) on August 28, 2026, at the Hub Auditorium of the BSP Head Office in Manila.
 
 | ![](/assets/images/bsp-quantum-readiness-workshop/group-photo-hero.jpg) |
 |:--:|
 | *Speakers and organizers after the Quantum Computing Technology Update workshop, BSP Head Office, August 28, 2026.* |
 
-The event brought together BSP professionals, researchers, cybersecurity experts, and members of the Philippine quantum community to explore quantum computing fundamentals, quantum programming, cybersecurity, post-quantum cryptography, and the potential implications of quantum technologies for central banks and financial institutions.
+The workshop was designed as an enablement program for BSP personnel, providing participants with a foundation for understanding quantum computing and helping the institution begin building internal awareness and capability around the opportunities and risks associated with emerging quantum technologies.
+
+The program covered the fundamentals of quantum computing, computational complexity, quantum circuits and algorithms, hands-on quantum programming, and quantum readiness. It also connected these concepts to issues particularly relevant to a central bank, including financial applications, cybersecurity, post-quantum cryptography, and the longer-term implications of quantum technologies for the financial sector.
 
 ## The Workshop Almost Did Not Happen
 
