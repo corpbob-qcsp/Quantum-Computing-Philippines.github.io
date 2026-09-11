@@ -81,4 +81,13 @@ QCSP is led by a Board of Directors whose backgrounds span engineering, research
 </div>
 </div>
 
+<div class="col-md-6 mb-5 d-flex">
+<img class="rounded-circle mr-3" src="{{site.baseurl}}/assets/images/advisers/nardo-manaloto.jpg" alt="Nardo Manaloto" width="110" height="110">
+<div>
+<h4 class="font-weight-bold mb-1">Nardo Manaloto</h4>
+<p class="text-muted mb-2"><em>Managing Partner, Qubits Ventures Fund & Global Venture Studio</em></p>
+<p>Nardo Manaloto is Managing Partner at Qubits Ventures Fund & Global Venture Studio, investing in quantum technologies and future-of-computing architectures, and is active in the broader AI and quantum ecosystem through IEEE and the American Society for AI.</p>
+</div>
+</div>
+
 </div>
