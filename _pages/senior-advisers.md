@@ -47,11 +47,29 @@ QCSP is guided by a group of senior advisers whose experience spans industry, te
 </div>
 
 <div class="col-md-6 mb-5 d-flex">
+<img class="rounded-circle mr-3" src="{{site.baseurl}}/assets/images/jun_sa-a.jpeg" alt="Wilfredo &quot;Jun&quot; Sa-a Jr." width="110" height="110">
+<div>
+<h4 class="font-weight-bold mb-1">Wilfredo "Jun" Sa-a Jr.</h4>
+<p class="text-muted mb-2"><em>Executive Director, Cebu Educational Development Foundation for Information Technology (Cedf-IT)</em></p>
+<p>Wilfredo "Jun" Sa-a Jr. is executive director of the Cebu Educational Development Foundation for Information Technology (Cedf-IT) and former managing director of the Cebu I.T.&ndash;BPM Organization (CIB.O). A long-time advocate of industry&ndash;academe linkages and digital governance, he helps drive Cebu's ICT/BPO growth and now supports emerging-tech initiatives such as quantum technology through Taga-SciHi Alumni.</p>
+</div>
+</div>
+
+<div class="col-md-6 mb-5 d-flex">
 <img class="rounded-circle mr-3" src="{{site.baseurl}}/assets/images/bryan_siegelwax.jpg" alt="Brian Siegelwax" width="110" height="110">
 <div>
 <h4 class="font-weight-bold mb-1">Brian Siegelwax</h4>
 <p class="text-muted mb-2"><em>Quantum Algorithm Designer &middot; Co-Founder, OneQuantum Philippines</em></p>
 <p>Brian Siegelwax is a quantum algorithm designer, independent quantum developer, author, publisher, and podcaster known for The Quantum Dragon and other quantum-themed books. He is also a co-founder of OneQuantum Philippines.</p>
+</div>
+</div>
+
+<div class="col-md-6 mb-5 d-flex">
+<img class="rounded-circle mr-3" src="{{site.baseurl}}/assets/images/cherry-lyn-sta-romana.jpeg" alt="Dr. Cherry Lyn Sta. Romana" width="110" height="110">
+<div>
+<h4 class="font-weight-bold mb-1">Dr. Cherry Lyn C. Sta. Romana</h4>
+<p class="text-muted mb-2"><em>Dean, College of Computer Studies, Cebu Institute of Technology &ndash; University &middot; President, Computing Society of the Philippines</em></p>
+<p>Dr. Cherry Lyn C. Sta. Romana is Dean of the College of Computer Studies at Cebu Institute of Technology &ndash; University (CIT-U) and current President of the Computing Society of the Philippines. A computer science educator and researcher, she has led CCS in advancing curriculum innovation, industry partnerships, and student achievements in national and international ICT competitions.</p>
 </div>
 </div>
 
