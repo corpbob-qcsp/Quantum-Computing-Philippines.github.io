@@ -74,6 +74,7 @@ permalink: "/events.html"
   padding: 0.2rem 0.6rem;
   margin-bottom: 0.4rem;
 }
+.event-poster { width: 100%; border-radius: 8px; margin-bottom: 0.8rem; display: block; }
 .event-card.is-past { opacity: 0.85; }
 .event-card.is-past .event-date { background: #f5f5f5; }
 .event-card.is-past .event-date .month,
@@ -122,6 +123,7 @@ QCSP hosts workshops, hackathons, and community gatherings throughout the year. 
     {% endif %}
   </div>
   <div class="event-body">
+    {% if event.image %}<img class="event-poster" src="{% unless event.image contains '://' %}{{site.baseurl}}/{% endunless %}{{ event.image }}" alt="{{ event.title }}">{% endif %}
     {% if event.role %}<span class="badge-role d-block" style="width: fit-content;">{{ event.role }}</span>{% endif %}
     <h2 class="event-title">{{ event.title }}</h2>
     <div class="event-meta">
@@ -169,6 +171,7 @@ QCSP hosts workshops, hackathons, and community gatherings throughout the year. 
     {% endif %}
   </div>
   <div class="event-body">
+    {% if event.image %}<img class="event-poster" src="{% unless event.image contains '://' %}{{site.baseurl}}/{% endunless %}{{ event.image }}" alt="{{ event.title }}">{% endif %}
     {% if event.role %}<span class="badge-role d-block" style="width: fit-content;">{{ event.role }}</span>{% endif %}
     <h2 class="event-title">{{ event.title }}</h2>
     <div class="event-meta">

@@ -51,7 +51,7 @@ QCSP is guided by a group of senior advisers whose experience spans industry, te
 <div>
 <h4 class="font-weight-bold mb-1">Wilfredo "Jun" Sa-a Jr.</h4>
 <p class="text-muted mb-2"><em>Retired Managing Director of CIB.O</em></p>
-<p>Wilfredo "Jun" Sa-a Jr. is retired Managing Director of CIB.O or the the Cebu IT/BPM Organization the former Cebu Educational Development Foundation for Information Technology or CEDFIT, the first ICT Council of the entire Phils. He is a countryside devt advocate and a past President of NICP. He is also advocating for emerging technologies like Quantum Computing which comes after AI. He is currently the President of Tagascihi Alumni Association the alumni association of Cebu City National Science High School.</p>
+<p>Wilfredo "Jun" Sa-a Jr. is retired Managing Director of the Cebu IT/BPM Organization (CIB.O) &mdash; formerly the Cebu Educational Development Foundation for Information Technology (CEDF-IT), the first ICT council in the Philippines. He advocates for countryside development and the growth of emerging technologies, including quantum computing, which he sees as the next wave after artificial intelligence (AI). He currently serves as President of the Taga-SciHi Alumni Association, the alumni association of Cebu City National Science High School.</p>
 </div>
 </div>
 

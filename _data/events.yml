@@ -9,6 +9,7 @@
 #   time: "9:00 AM"         # optional, free text
 #   venue: "Venue name, City"
 #   description: "One or two sentence description of the event."
+#   image: assets/images/example-poster.png  # optional; event poster/flyer, shown above the title
 #   register_url: "https://..."   # optional; omit to hide the Register button
 #   learn_more_url: "https://..." # optional; omit to hide the Learn more link
 #   recap_url: "/news/..."        # optional; once an event is over, link to its news recap
@@ -236,6 +237,15 @@
   description: "A one-day Quantum Computing Workshop for the Bangko Sentral ng Pilipinas (BSP), giving participants a practical introduction to quantum computing and its emerging relevance to the financial sector. The program covers quantum computing foundations, hands-on programming with Qiskit, quantum readiness, cybersecurity implications and quantum-safe cryptography, and concludes with a discussion of quantum computing use cases in finance—equipping BSP participants with a clearer view of what quantum computing can do today, where the technology is heading, and how financial institutions can begin preparing for the quantum era."
   learn_more_url: "/workshop-bsp-2026.html"
   recap_url: "/news/2026-08-28-bsp-quantum-readiness-workshop/"
+
+- title: "Fireside Chat with Michele Mosca on Quantum Security"
+  date: 2026-09-18
+  time: "8:00–9:30 PM PHT · 5:30–7:00 PM IST"
+  venue: "Virtual Panel Discussion"
+  description: "A Quantum Pulse fireside chat with Michele Mosca — University of Waterloo professor, co-founder, President & CEO of evolutionQ, and originator of Mosca's Theorem (X + Y > Z) on the urgency of migrating to quantum-safe cryptography — moderated by QCSP President Bobby Corpus Jr. and Reena Dayal Yadav, Founder & CEO of the QET Council of India."
+  image: assets/images/mosca_fireside_chat.png
+  register_url: "https://bit.ly/3UD6xWB"
+  role: "Co-organizer"
 
 - title: "Quantum Technology and Computing Ideathon"
   date: 2026-09-26
