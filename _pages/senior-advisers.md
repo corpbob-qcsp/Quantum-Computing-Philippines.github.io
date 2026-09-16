@@ -12,7 +12,7 @@ QCSP is guided by a group of senior advisers whose experience spans industry, te
 <div class="col-md-6 mb-5 d-flex">
 <img class="rounded-circle mr-3" src="{{site.baseurl}}/assets/images/advisers/henry-adorna.jpg" alt="Henry Adorna, Ph.D." width="110" height="110">
 <div>
-<h4 class="font-weight-bold mb-1">Henry Adorna, Ph.D.</h4>
+<h4 class="font-weight-bold mb-1"><a href="{{site.baseurl}}/people/henry-adorna.html">Henry Adorna, Ph.D.</a></h4>
 <p class="text-muted mb-2"><em>Professor, Department of Computer Science, University of the Philippines Diliman</em></p>
 <p>Dr. Henry N. Adorna is a Professor at the Department of Computer Science, University of the Philippines Diliman, and Head of the Logic and Computability Laboratory, with research spanning theoretical computer science, automata, and natural and quantum computing.</p>
 </div>
@@ -21,7 +21,7 @@ QCSP is guided by a group of senior advisers whose experience spans industry, te
 <div class="col-md-6 mb-5 d-flex">
 <img class="rounded-circle mr-3" src="{{site.baseurl}}/assets/images/advisers/jocelle-batapa-sigue.jpg" alt="Atty. Jocelle Batapa-Sigue" width="110" height="110">
 <div>
-<h4 class="font-weight-bold mb-1">Atty. Jocelle Batapa-Sigue</h4>
+<h4 class="font-weight-bold mb-1"><a href="{{site.baseurl}}/people/jocelle-batapa-sigue.html">Atty. Jocelle Batapa-Sigue</a></h4>
 <p class="text-muted mb-2"><em>Senior Legal Adviser, QCSP &middot; Convenor, Philippine ICT Network, Inc.</em></p>
 <p>Atty. Jocelle Batapa-Sigue is QCSP's Senior Legal Adviser and the Convenor of the Philippine ICT Network, Inc., where she champions the country's readiness for the technological transformations brought about by quantum computing, artificial intelligence, and other emerging technologies.</p>
 </div>
@@ -30,7 +30,7 @@ QCSP is guided by a group of senior advisers whose experience spans industry, te
 <div class="col-md-6 mb-5 d-flex">
 <img class="rounded-circle mr-3" src="{{site.baseurl}}/assets/images/advisers/mon-ibrahim.jpg" alt="Monchito Ibrahim" width="110" height="110">
 <div>
-<h4 class="font-weight-bold mb-1">Monchito "Mon" Ibrahim</h4>
+<h4 class="font-weight-bold mb-1"><a href="{{site.baseurl}}/people/mon-ibrahim.html">Monchito "Mon" Ibrahim</a></h4>
 <p class="text-muted mb-2"><em>Lead Convenor, Alliance of Tech Innovators for the Nation (ATIN)</em></p>
 <p>Monchito "Mon" Ibrahim is Lead Convenor of the Alliance of Tech Innovators for the Nation (ATIN), with more than 45 years of experience in technology and development leadership across the private and public sectors, specializing in digital transformation and youth capacity building.</p>
 </div>
@@ -40,7 +40,7 @@ QCSP is guided by a group of senior advisers whose experience spans industry, te
 <div class="col-md-6 mb-5 d-flex">
 <img class="rounded-circle mr-3" src="{{site.baseurl}}/assets/images/advisers/robert-ramos.jpg" alt="Robert Ramos, Ph.D." width="110" height="110">
 <div>
-<h4 class="font-weight-bold mb-1">Robert Ramos, Ph.D.</h4>
+<h4 class="font-weight-bold mb-1"><a href="{{site.baseurl}}/people/robert-ramos.html">Robert Ramos, Ph.D.</a></h4>
 <p class="text-muted mb-2"><em>Professor of Physics &middot; Principal Investigator, Quantum Materials Physics Laboratory, Saint Joseph's University</em></p>
 <p>Dr. Roberto Ramos is a Professor of Physics and Principal Investigator of the Quantum Materials Physics Laboratory at Saint Joseph's University, specializing in quantum materials, superconductivity, and superconducting quantum computing.</p>
 </div>
@@ -49,7 +49,7 @@ QCSP is guided by a group of senior advisers whose experience spans industry, te
 <div class="col-md-6 mb-5 d-flex">
 <img class="rounded-circle mr-3" src="{{site.baseurl}}/assets/images/jun_sa-a.jpeg" alt="Wilfredo &quot;Jun&quot; Sa-a Jr." width="110" height="110">
 <div>
-<h4 class="font-weight-bold mb-1">Wilfredo "Jun" Sa-a Jr.</h4>
+<h4 class="font-weight-bold mb-1"><a href="{{site.baseurl}}/people/jun-sa-a.html">Wilfredo "Jun" Sa-a Jr.</a></h4>
 <p class="text-muted mb-2"><em>Retired Managing Director of CIB.O</em></p>
 <p>Wilfredo "Jun" Sa-a Jr. is retired Managing Director of the Cebu IT/BPM Organization (CIB.O) &mdash; formerly the Cebu Educational Development Foundation for Information Technology (CEDF-IT), the first ICT council in the Philippines. He advocates for countryside development and the growth of emerging technologies, including quantum computing, which he sees as the next wave after artificial intelligence (AI). He currently serves as President of the Taga-SciHi Alumni Association, the alumni association of Cebu City National Science High School.</p>
 </div>
@@ -58,7 +58,7 @@ QCSP is guided by a group of senior advisers whose experience spans industry, te
 <div class="col-md-6 mb-5 d-flex">
 <img class="rounded-circle mr-3" src="{{site.baseurl}}/assets/images/bryan_siegelwax.jpg" alt="Brian Siegelwax" width="110" height="110">
 <div>
-<h4 class="font-weight-bold mb-1">Brian Siegelwax</h4>
+<h4 class="font-weight-bold mb-1"><a href="{{site.baseurl}}/people/brian-siegelwax.html">Brian Siegelwax</a></h4>
 <p class="text-muted mb-2"><em>Quantum Algorithm Designer &middot; Co-Founder, OneQuantum Philippines</em></p>
 <p>Brian Siegelwax is a quantum algorithm designer, independent quantum developer, author, publisher, and podcaster known for The Quantum Dragon and other quantum-themed books. He is also a co-founder of OneQuantum Philippines.</p>
 </div>
@@ -67,7 +67,7 @@ QCSP is guided by a group of senior advisers whose experience spans industry, te
 <div class="col-md-6 mb-5 d-flex">
 <img class="rounded-circle mr-3" src="{{site.baseurl}}/assets/images/cherry-lyn-sta-romana.jpeg" alt="Dr. Cherry Lyn Sta. Romana" width="110" height="110">
 <div>
-<h4 class="font-weight-bold mb-1">Dr. Cherry Lyn C. Sta. Romana</h4>
+<h4 class="font-weight-bold mb-1"><a href="{{site.baseurl}}/people/cherry-lyn-sta-romana.html">Dr. Cherry Lyn C. Sta. Romana</a></h4>
 <p class="text-muted mb-2"><em>Dean, College of Computer Studies, Cebu Institute of Technology &ndash; University &middot; President, Computing Society of the Philippines</em></p>
 <p>Dr. Cherry Lyn C. Sta. Romana is Dean of the College of Computer Studies at Cebu Institute of Technology &ndash; University (CIT-U) and current President of the Computing Society of the Philippines. A computer science educator and researcher, she has led CCS in advancing curriculum innovation, industry partnerships, and student achievements in national and international ICT competitions.</p>
 </div>
@@ -76,7 +76,7 @@ QCSP is guided by a group of senior advisers whose experience spans industry, te
 <div class="col-md-6 mb-5 d-flex">
 <img class="rounded-circle mr-3" src="{{site.baseurl}}/assets/images/advisers/dan-zarraga.jpg" alt="Dan Zarraga, Ph.D." width="110" height="110">
 <div>
-<h4 class="font-weight-bold mb-1">Dan Zarraga, Ph.D.</h4>
+<h4 class="font-weight-bold mb-1"><a href="{{site.baseurl}}/people/dan-zarraga.html">Dan Zarraga, Ph.D.</a></h4>
 <p class="text-muted mb-2"><em>Senior Director, BioPharma Development</em></p>
 <p>Dr. Dan Zarraga, Sr Director in BioPharma development, with 20 years of experience and expertise in Industrial Biotech. He has facilitated Public-Private innovation partnerships such as nSoft, a consortia of industry, academe, and government advancing neutron scattering of soft materials and its industrial applications. He has also been involved in collaborative research in physically informed neural networks (PINNs) applied to biotechnology.</p>
 </div>
