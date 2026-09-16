@@ -36,6 +36,8 @@ permalink: "/qcsp-officers.html"
   border: 2px solid #ece8f2;
 }
 .node .node-name { font-weight: 700; font-size: 0.88rem; color: #2b2733; margin-bottom: 0.2rem; line-height: 1.2; }
+.node .node-name a { color: inherit; text-decoration: none; }
+.node .node-name a:hover { color: #6534a0; text-decoration: underline; }
 .node .node-title { font-size: 0.72rem; color: #888; line-height: 1.3; text-transform: uppercase; letter-spacing: 0.02em; }
 .badge-board {
   display: inline-block;
@@ -69,14 +71,14 @@ QCSP's officers lead the organization day-to-day, coordinating program developme
   <div class="node-wrap">
     <div class="node node-lg">
       <img class="avatar" src="{{site.baseurl}}/assets/images/board/bobby-corpus.jpg" alt="Bobby Corpus">
-      <div class="node-name">Bobby Corpus</div>
+      <div class="node-name"><a href="{{site.baseurl}}/people/bobby-corpus.html">Bobby Corpus</a></div>
       <div class="node-title">President</div>
     </div>
   </div>
   <div class="node-wrap">
     <div class="node node-lg">
       <img class="avatar" src="{{site.baseurl}}/assets/images/board/bernardino-buenaobra.jpg" alt="Bernardino Buenaobra">
-      <div class="node-name">Bernardino Buenaobra</div>
+      <div class="node-name"><a href="{{site.baseurl}}/people/bernardino-buenaobra.html">Bernardino Buenaobra</a></div>
       <div class="node-title">Vice-President</div>
     </div>
   </div>
@@ -91,7 +93,7 @@ QCSP's officers lead the organization day-to-day, coordinating program developme
   <div class="node-wrap">
     <div class="node node-lg">
       <img class="avatar" src="{{site.baseurl}}/assets/images/stefany_caparida.png" alt="Stefany Mae Caparida">
-      <div class="node-name">Stefany Mae Caparida</div>
+      <div class="node-name"><a href="{{site.baseurl}}/people/stefany-caparida.html">Stefany Mae Caparida</a></div>
       <div class="node-title">Executive Director</div>
     </div>
   </div>
@@ -109,35 +111,35 @@ QCSP's officers lead the organization day-to-day, coordinating program developme
   <div class="node-wrap">
     <div class="node">
       <img class="avatar" src="{{site.baseurl}}/assets/images/qcsp-directors/jeffrey-aborot.jpg" alt="Jeffrey Aborot">
-      <div class="node-name">Jeffrey Aborot</div>
+      <div class="node-name"><a href="{{site.baseurl}}/people/jeffrey-aborot.html">Jeffrey Aborot</a></div>
       <div class="node-title">Director, Innovation</div>
     </div>
   </div>
   <div class="node-wrap">
     <div class="node">
       <img class="avatar" src="{{site.baseurl}}/assets/images/qcsp-directors/jabez-ayson.jpg" alt="Jabez Ayson">
-      <div class="node-name">Jabez Ayson</div>
+      <div class="node-name"><a href="{{site.baseurl}}/people/jabez-ayson.html">Jabez Ayson</a></div>
       <div class="node-title">Director, Operations &amp; Community</div>
     </div>
   </div>
   <div class="node-wrap">
     <div class="node">
       <img class="avatar" src="{{site.baseurl}}/assets/images/qcsp-directors/menchie-belarmino.jpg" alt="Menchie Belarmino">
-      <div class="node-name">Menchie Belarmino</div>
+      <div class="node-name"><a href="{{site.baseurl}}/people/menchie-belarmino.html">Menchie Belarmino</a></div>
       <div class="node-title">Director, Creative Marketing</div>
     </div>
   </div>
   <div class="node-wrap">
     <div class="node">
       <img class="avatar" src="{{site.baseurl}}/assets/images/qcsp-directors/noelyn-de-jesus.jpg" alt="Noelyn de Jesus">
-      <div class="node-name">Noelyn de Jesus</div>
+      <div class="node-name"><a href="{{site.baseurl}}/people/noelyn-de-jesus.html">Noelyn de Jesus</a></div>
       <div class="node-title">Director, Marketing &amp; Relations</div>
     </div>
   </div>
   <div class="node-wrap">
     <div class="node">
       <img class="avatar" src="{{site.baseurl}}/assets/images/board/dylan-lopez.jpg" alt="Dylan Josh Lopez">
-      <div class="node-name">Dylan Josh Lopez</div>
+      <div class="node-name"><a href="{{site.baseurl}}/people/dylan-lopez.html">Dylan Josh Lopez</a></div>
       <div class="node-title">Director, Partnerships and Collaboration</div>
       <div class="badge-board">Board Member</div>
     </div>
@@ -145,7 +147,7 @@ QCSP's officers lead the organization day-to-day, coordinating program developme
   <div class="node-wrap">
     <div class="node">
       <img class="avatar" src="{{site.baseurl}}/assets/images/board/edison-macabebe.jpg" alt="Edison Macabebe">
-      <div class="node-name">Edison Macabebe</div>
+      <div class="node-name"><a href="{{site.baseurl}}/people/edison-macabebe.html">Edison Macabebe</a></div>
       <div class="node-title">Director, Special Projects</div>
       <div class="badge-board">Board Member</div>
     </div>
@@ -153,7 +155,7 @@ QCSP's officers lead the organization day-to-day, coordinating program developme
   <div class="node-wrap">
     <div class="node">
       <img class="avatar" src="{{site.baseurl}}/assets/images/board/andrew-oconer.jpg" alt="Andrew Justin Oconer">
-      <div class="node-name">Andrew Justin Oconer</div>
+      <div class="node-name"><a href="{{site.baseurl}}/people/andrew-oconer.html">Andrew Justin Oconer</a></div>
       <div class="node-title">Director, Community Affairs</div>
       <div class="badge-board">Board Member</div>
     </div>
@@ -161,14 +163,14 @@ QCSP's officers lead the organization day-to-day, coordinating program developme
   <div class="node-wrap">
     <div class="node">
       <img class="avatar" src="{{site.baseurl}}/assets/images/qcsp-directors/elmer-peramo.jpg" alt="Elmer Peramo">
-      <div class="node-name">Elmer Peramo</div>
+      <div class="node-name"><a href="{{site.baseurl}}/people/elmer-peramo.html">Elmer Peramo</a></div>
       <div class="node-title">Director, Program Development</div>
     </div>
   </div>
   <div class="node-wrap">
     <div class="node">
       <img class="avatar" src="{{site.baseurl}}/assets/images/qcsp-directors/lance-raquel.jpg" alt="Lance Raquel">
-      <div class="node-name">Lance Raquel</div>
+      <div class="node-name"><a href="{{site.baseurl}}/people/lance-raquel.html">Lance Raquel</a></div>
       <div class="node-title">Director, Student Affairs</div>
     </div>
   </div>

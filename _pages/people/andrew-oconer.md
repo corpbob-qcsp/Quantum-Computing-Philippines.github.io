@@ -7,6 +7,6 @@ permalink: "/people/andrew-oconer.html"
 
 <p class="text-muted text-center mb-4"><em>Data &amp; AI Engineer, Accenture &middot; Director of Community Affairs, OneQuantum</em></p>
 
-<p>Andrew Justin Oconer is a Data & AI Engineer and AI/ML Computational Science Associate Manager at Accenture, and Director of Community Affairs at OneQuantum, working at the intersection of software engineering, machine learning, and quantum computing. In this role, he helps translate emerging research into practical applications while fostering community engagement and collaboration across the growing global network of OneQuantum chapters and their members.</p>
+<p>Andrew Justin Oconer is an AI and machine-learning computational-science associate manager, data and AI engineer, and quantum-computing practitioner at Accenture, and Director of Community Affairs at OneQuantum. With more than seven years of software-development experience, he has worked across firmware, software engineering, robotics, mechatronics, artificial intelligence, and emerging computing technologies. He works at the intersection of software engineering, machine learning, and quantum computing, helping translate emerging research into practical applications while fostering community engagement and collaboration across the growing global network of OneQuantum chapters and their members.</p>
 
-<p class="mt-4"><a href="{{site.baseurl}}/board-of-directors.html">&larr; Back to Board of Directors</a></p>
+<p class="mt-4"><a href="{{site.baseurl}}/qcsp-officers.html">&larr; Back to QCSP Officers</a> &middot; <a href="{{site.baseurl}}/board-of-directors.html">Board of Directors</a></p>
