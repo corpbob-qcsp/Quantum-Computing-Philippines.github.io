@@ -9,4 +9,4 @@ permalink: "/people/dylan-lopez.html"
 
 <p>Dylan Josh Domingo Lopez is a Philippine quantum-computing educator and researcher who is pursuing a PhD in Electrical Engineering at Chung Yuan Christian University in Taiwan. He teaches at De La Salle University&ndash;Manila and is active in the Quantum Computing Society of the Philippines, where he supports quantum education, partnerships, and community initiatives. His work focuses on hybrid quantum applications, quantum machine learning, and uses of quantum computing for areas such as smart cities and energy systems.</p>
 
-<p class="mt-4"><a href="{{site.baseurl}}/qcsp-officers.html">&larr; Back to QCSP Officers</a> &middot; <a href="{{site.baseurl}}/board-of-directors.html">Board of Directors</a></p>
+<p class="mt-4"><a href="{{site.baseurl}}/qcsp-officers.html">&larr; Back to QCSP Officers</a> &middot; <a href="{{site.baseurl}}/board-of-directors.html">Board of Directors</a> &middot; <a href="{{site.baseurl}}/workshop-bsp-2026.html">Quantum Readiness for the Financial Sector</a></p>

@@ -23,6 +23,52 @@ The Ideathon is organized by Invictus. Training. Solutions. in partnership with 
 
 <hr/>
 
+### Speakers
+
+<style>
+.speaker-grid .speaker-avatar { width: 84px; height: 84px; object-fit: cover; border: 2px solid #f6f3fa; }
+.speaker-grid .speaker-role { font-size: 0.85rem; }
+.speaker-session {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: #6534a0;
+  background: #f6f3fa;
+  border: 1px solid #e6ddf3;
+  border-radius: 20px;
+  padding: 0.15rem 0.65rem;
+  margin-bottom: 0.5rem;
+}
+.speaker-grid h4 a { color: inherit; text-decoration: none; }
+.speaker-grid h4 a:hover { color: #6534a0; text-decoration: underline; }
+</style>
+
+<div class="row speaker-grid mt-3">
+
+<div class="col-md-6 mb-5 d-flex">
+<img class="rounded-circle mr-3 speaker-avatar" src="{{site.baseurl}}/assets/images/Ian_Agulo_pic.jpeg" alt="Ian Agulo, PhD">
+<div>
+<h4 class="font-weight-bold mb-1"><a href="{{site.baseurl}}/people/ian-agulo.html">Ian Agulo, PhD</a></h4>
+<p class="text-muted speaker-role mb-2"><em>Professor of Physics, University of the Philippines Baguio &middot; Head, Micro and Nano Innovations Laboratory</em></p>
+<div class="speaker-session">1:40 PM &middot; Quantum Technology and Applications</div>
+<p>Ian Jasper A. Agulo received his B.S. degree in Applied Physics (major in Instrumentation Physics) from the University of the Philippines Diliman in 1996, and his M.Sc. and Ph.D. degrees in Physics from Chalmers University of Technology, Gothenburg, Sweden in 1999 and 2007, respectively. He is currently a Professor of Physics at the University of the Philippines Baguio and Head of the Micro and Nano Innovations Laboratory. His current research interests are in the applications of machine learning and artificial intelligence to a variety of systems, which include materials science, weather prediction, smart cities, and cybersecurity.</p>
+</div>
+</div>
+
+<div class="col-md-6 mb-5 d-flex">
+<img class="rounded-circle mr-3 speaker-avatar" src="{{site.baseurl}}/assets/images/qcsp-directors/menchie-belarmino.jpg" alt="Menchie Belarmino">
+<div>
+<h4 class="font-weight-bold mb-1"><a href="{{site.baseurl}}/people/menchie-belarmino.html">Menchie Belarmino</a></h4>
+<p class="text-muted speaker-role mb-2"><em>Solutions Designer, Stratpoint Global Outsourcing &middot; Director, Creative Marketing, QCSP</em></p>
+<div class="speaker-session">2:25 PM &middot; Challenge Presentation, Ideation Framework and Instructions</div>
+<p>Solutions Designer at Stratpoint Global Outsourcing with over three years of experience bridging business needs and technology across telecommunications, banking, aviation, retail, government, and tourism. A Bicol University graduate and proud Bicolana, she brings a business-side perspective centered on value, feasibility, and customer needs to the Ideathon's challenge framing.</p>
+</div>
+</div>
+
+</div>
+
+<hr/>
+
 ### Competition Tracks
 
 Interdisciplinary teams (up to 8 groups) select one of four announced tracks:
@@ -47,8 +93,8 @@ Interdisciplinary teams (up to 8 groups) select one of four announced tracks:
 <style>.program-table td:first-child { white-space: nowrap; }</style>
 <table valign="top" class="program-table">
 <tr style="vertical-align:top"><td>1:30 PM</td><td>&nbsp;&nbsp;&nbsp;<b>Opening Program</b> (10 min)<br/>&nbsp;&nbsp;&nbsp;Welcome remarks, objectives, expected outputs, and introduction of facilitators.</td></tr>
-<tr style="vertical-align:top"><td>1:40 PM</td><td>&nbsp;&nbsp;&nbsp;<b>Quantum Technology and Applications</b> (45 min)<br/>&nbsp;&nbsp;&nbsp;A high-level introduction to quantum technologies—including quantum sensing, quantum communications, and quantum computing—and their potential applications across major industries such as finance, logistics, cybersecurity, healthcare, and energy.</td></tr>
-<tr style="vertical-align:top"><td>2:25 PM</td><td>&nbsp;&nbsp;&nbsp;<b>Challenge Presentation, Ideation Framework and Instructions</b> (30 min)<br/>&nbsp;&nbsp;&nbsp;Presentation of local or sector-specific problems participants may address, discussion of the theme and tracks, and an introduction to the ideation canvas, judging criteria, and expected team output.</td></tr>
+<tr style="vertical-align:top"><td>1:40 PM</td><td>&nbsp;&nbsp;&nbsp;<b>Quantum Technology and Applications</b> (45 min)<br/>&nbsp;&nbsp;&nbsp;A high-level introduction to quantum technologies—including quantum sensing, quantum communications, and quantum computing—and their potential applications across major industries such as finance, logistics, cybersecurity, healthcare, and energy.<br/>&nbsp;&nbsp;&nbsp;<i>Ian Agulo, PhD</i></td></tr>
+<tr style="vertical-align:top"><td>2:25 PM</td><td>&nbsp;&nbsp;&nbsp;<b>Challenge Presentation, Ideation Framework and Instructions</b> (30 min)<br/>&nbsp;&nbsp;&nbsp;Presentation of local or sector-specific problems participants may address, discussion of the theme and tracks, and an introduction to the ideation canvas, judging criteria, and expected team output.<br/>&nbsp;&nbsp;&nbsp;<i>Menchie Belarmino</i></td></tr>
 <tr style="vertical-align:top"><td>2:55 PM</td><td>&nbsp;&nbsp;&nbsp;<b>Break and Team Formation</b> (10 min)<br/>&nbsp;&nbsp;&nbsp;Participants form interdisciplinary teams and select a challenge.</td></tr>
 <tr style="vertical-align:top"><td>3:05 PM</td><td>&nbsp;&nbsp;&nbsp;<b>Team Ideation Sprint &amp; Mentor Checkpoints</b> (45 min)<br/>&nbsp;&nbsp;&nbsp;Teams define the problem, stakeholders, proposed quantum approach, required data, and expected impact, while mentors assess technical relevance, feasibility, and whether quantum technology offers a meaningful advantage.</td></tr>
 <tr style="vertical-align:top"><td>3:50 PM</td><td>&nbsp;&nbsp;&nbsp;<b>Concept Refinement and Pitch Preparation</b> (20 min)<br/>&nbsp;&nbsp;&nbsp;Teams improve their proposals and prepare concise presentations.</td></tr>

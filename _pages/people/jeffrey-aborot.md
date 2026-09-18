@@ -15,4 +15,4 @@ permalink: "/people/jeffrey-aborot.html"
 
 <p>As a respected voice in the field, Aborot collaborates with academic institutions and industry partners to advance quantum computing research and development in the Philippines. His expertise and leadership are helping to position the country at the forefront of this transformative technology.</p>
 
-<p class="mt-4"><a href="{{site.baseurl}}/qcsp-officers.html">&larr; Back to QCSP Officers</a></p>
+<p class="mt-4"><a href="{{site.baseurl}}/qcsp-officers.html">&larr; Back to QCSP Officers</a> &middot; <a href="{{site.baseurl}}/workshop-bsp-2026.html">Quantum Readiness for the Financial Sector</a></p>

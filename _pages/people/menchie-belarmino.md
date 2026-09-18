@@ -13,4 +13,4 @@ permalink: "/people/menchie-belarmino.html"
 
 <p>A Bicol University graduate and a proud Bicolana, Menchie is passionate about creating opportunities for technology and innovation in the region. She is a member of the Quantum Computing Society of the Philippines and is joining the Quantum Computing Ideathon in Legazpi City as a business-side judge, bringing a perspective centered on business value, problem framing, feasibility, customer needs, and the potential impact of ideas.</p>
 
-<p class="mt-4"><a href="{{site.baseurl}}/qcsp-officers.html">&larr; Back to QCSP Officers</a></p>
+<p class="mt-4"><a href="{{site.baseurl}}/qcsp-officers.html">&larr; Back to QCSP Officers</a> &middot; <a href="{{site.baseurl}}/workshop-legazpi-ideathon-2026.html">Quantum Technology and Computing Ideathon</a></p>
