@@ -80,11 +80,7 @@ Interdisciplinary teams (up to 8 groups) select one of four announced tracks:
 
 ### Prizes
 
-<table>
-<tr><td>Champion</td><td>&#8369;25,000</td></tr>
-<tr><td>1st Runner-up</td><td>&#8369;15,000</td></tr>
-<tr><td>2nd Runner-up</td><td>&#8369;10,000</td></tr>
-</table>
+*To be announced.* Prize details will be shared soon &mdash; follow the event updates on [Facebook](https://web.facebook.com/share/p/19QQ8VwE2E/) to be the first to know.
 
 <hr/>
 

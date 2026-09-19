@@ -26,8 +26,8 @@ Participating teams will choose one of four competition tracks:
 - **Track 3** — Quantum for Government and Public Services
 - **Track 4** — Quantum Entrepreneurship
 
-Cash prizes await the top teams: ₱25,000 for the Champion, ₱15,000 for the 1st Runner-up, and ₱10,000 for the 2nd Runner-up.
+Prizes for the top teams will be announced soon.
 
 For QCSP, the Ideathon extends its ongoing push to bring quantum literacy beyond Metro Manila and into the country's regions—following recent programs in Bulacan, Quezon City, and at the Bangko Sentral ng Pilipinas—by giving Bicol's students, IT professionals, and educators a hands-on entry point into quantum technology and its applications for national development.
 
-Full program details, competition tracks, and prizes are available on the [Ideathon's event page](/workshop-legazpi-ideathon-2026.html). Updates are also posted on [Facebook](https://web.facebook.com/share/p/19QQ8VwE2E/).
+Full program details and competition tracks are available on the [Ideathon's event page](/workshop-legazpi-ideathon-2026.html). Updates are also posted on [Facebook](https://web.facebook.com/share/p/19QQ8VwE2E/).
