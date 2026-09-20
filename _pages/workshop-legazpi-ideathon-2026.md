@@ -49,9 +49,9 @@ The Ideathon is organized by Invictus. Training. Solutions. in partnership with 
 <img class="rounded-circle mr-3 speaker-avatar" src="{{site.baseurl}}/assets/images/Ian_Agulo_pic.jpeg" alt="Ian Agulo, PhD">
 <div>
 <h4 class="font-weight-bold mb-1"><a href="{{site.baseurl}}/people/ian-agulo.html">Ian Agulo, PhD</a></h4>
-<p class="text-muted speaker-role mb-2"><em>Professor of Physics, University of the Philippines Baguio &middot; Head, Micro and Nano Innovations Laboratory</em></p>
+<p class="text-muted speaker-role mb-2"><em>Professor of Physics, University of the Philippines Baguio &middot; Head, Machine Intelligence and Neural Dynamics Laboratory (MIND Lab)</em></p>
 <div class="speaker-session">1:40 PM &middot; Quantum Technology and Applications</div>
-<p>Ian Jasper A. Agulo received his B.S. degree in Applied Physics (major in Instrumentation Physics) from the University of the Philippines Diliman in 1996, and his M.Sc. and Ph.D. degrees in Physics from Chalmers University of Technology, Gothenburg, Sweden in 1999 and 2007, respectively. He is currently a Professor of Physics at the University of the Philippines Baguio and Head of the Micro and Nano Innovations Laboratory. His current research interests are in the applications of machine learning and artificial intelligence to a variety of systems, which include materials science, weather prediction, smart cities, and cybersecurity.</p>
+<p>Ian Jasper A. Agulo received his B.S. degree in Applied Physics (major in Instrumentation Physics) from the University of the Philippines Diliman in 1996, and his M.Sc. and Ph.D. degrees in Physics from Chalmers University of Technology, Gothenburg, Sweden in 1999 and 2007, respectively. He is currently a Professor of Physics at the University of the Philippines Baguio and Head of the Machine Intelligence and Neural Dynamics Laboratory (MIND Lab). His current research interests are in the applications of machine learning and artificial intelligence to a variety of systems, which include materials science, weather prediction, smart cities, and cybersecurity.</p>
 </div>
 </div>
 
