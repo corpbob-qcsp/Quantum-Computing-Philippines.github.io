@@ -41,6 +41,17 @@ The Ideathon is organized by Invictus. Training. Solutions. in partnership with 
 }
 .speaker-grid h4 a { color: inherit; text-decoration: none; }
 .speaker-grid h4 a:hover { color: #6534a0; text-decoration: underline; }
+.judge-focus {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: #0f766e;
+  background: #e6f6f4;
+  border: 1px solid #c8ece8;
+  border-radius: 20px;
+  padding: 0.15rem 0.65rem;
+  margin-bottom: 0.5rem;
+}
 </style>
 
 <div class="row speaker-grid mt-3">
@@ -78,10 +89,6 @@ Interdisciplinary teams (up to 8 groups) select one of four announced tracks:
 - **Track 3** &mdash; Quantum for Government and Public Services
 - **Track 4** &mdash; Quantum Entrepreneurship
 
-### Prizes
-
-*To be announced.* Prize details will be shared soon &mdash; follow the event updates on [Facebook](https://web.facebook.com/share/p/19QQ8VwE2E/) to be the first to know.
-
 <hr/>
 
 ### Program
@@ -99,6 +106,56 @@ Interdisciplinary teams (up to 8 groups) select one of four announced tracks:
 <tr style="vertical-align:top"><td>4:57 PM</td><td>&nbsp;&nbsp;&nbsp;<b>Closing and Group Photo</b> (3 min)<br/>&nbsp;&nbsp;&nbsp;QCSP Volunteership sign-ups open. Closing remarks and event documentation.</td></tr>
 <tr><td>5:00 PM</td><td>&nbsp;&nbsp;&nbsp;End of Ideathon</td></tr>
 </table>
+
+<hr/>
+
+### Judges
+
+<div class="row speaker-grid mt-3">
+
+<div class="col-md-6 mb-5 d-flex">
+<img class="rounded-circle mr-3 speaker-avatar" src="{{site.baseurl}}/assets/images/jan_pabellon.jpeg" alt="Jan Pabellon">
+<div>
+<h4 class="font-weight-bold mb-1"><a href="{{site.baseurl}}/people/jan-pabellon.html">Jan Pabellon</a></h4>
+<p class="text-muted speaker-role mb-2"><em>Co-Founder &amp; Chief Operations and Product Officer, Smile API</em></p>
+<p>Jan Alvin Pabellon is co-founder and Chief Operations and Product Officer of Smile API, a Philippine startup providing employment and income verification data via API to fintechs and banks. A former NetSuite product manager for APAC, he holds degrees from UP and AIM, and has over 20 years in product, strategy, and operations in tech.</p>
+</div>
+</div>
+
+<div class="col-md-6 mb-5 d-flex">
+<img class="rounded-circle mr-3 speaker-avatar" src="{{site.baseurl}}/assets/images/sachie_turiano.jpg" alt="Sachie Mitsui P. Turiano-Academia">
+<div>
+<h4 class="font-weight-bold mb-1"><a href="{{site.baseurl}}/people/sachie-turiano.html">Sachie Mitsui P. Turiano-Academia</a></h4>
+<p class="text-muted speaker-role mb-2"><em>President &amp; CEO, Fortem Auctrix, Inc. &middot; Founder &amp; Chief Educator, Global Markets Eruditio (GME)</em></p>
+<p>Entrepreneur, economist, educator, program designer, and professional speaker specializing in business strategy, financial markets, workforce development, innovation, and leadership. A Magna Cum Laude Economics graduate of Bicol University, she began her career at the Philippine Stock Exchange and is active as a startup mentor, judge, and evaluator.</p>
+</div>
+</div>
+
+<div class="col-md-6 mb-5 d-flex">
+<img class="rounded-circle mr-3 speaker-avatar" src="{{site.baseurl}}/assets/images/frei_sangil.jpg" alt="Frei Sangil">
+<div>
+<h4 class="font-weight-bold mb-1"><a href="{{site.baseurl}}/people/frei-sangil.html">Frei Sangil</a></h4>
+<p class="text-muted speaker-role mb-2"><em>President &amp; CEO, Layertech Software Labs, Inc.</em></p>
+<p>Data scientist specializing in applied cryptography and cyber forensics. She co-founded Layertech Software Labs, Inc., a civic-tech R&amp;D company in Albay, and leads projects on disaster preparedness, public data analytics, and inclusive digitalization. She advocates for women in STEM and ethical, community-centered technology.</p>
+</div>
+</div>
+
+<div class="col-md-6 mb-5 d-flex">
+<img class="rounded-circle mr-3 speaker-avatar" src="{{site.baseurl}}/assets/images/crestia_banares.jpeg" alt="Ma. Crestia C. Bañares">
+<div>
+<h4 class="font-weight-bold mb-1"><a href="{{site.baseurl}}/people/crestia-banares.html">Ma. Crestia C. Bañares</a></h4>
+<p class="text-muted speaker-role mb-2"><em>Executive Director, BiCoRSE &middot; Technology Transfer Officer and Assistant Professor, Bicol University</em></p>
+<p>Executive Director of BiCoRSE, a DOST-funded regional startup alliance led by Bicol University. She is also a Technology Transfer Officer and Assistant Professor at Bicol University, specializing in entrepreneurship, innovation, technology commercialization, and startup ecosystem development.</p>
+</div>
+</div>
+
+</div>
+
+<hr/>
+
+### Prizes
+
+*To be announced.* Prize details will be shared soon &mdash; follow the event updates on [Facebook](https://web.facebook.com/share/p/19QQ8VwE2E/) to be the first to know.
 
 <hr/>
 

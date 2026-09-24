@@ -11,6 +11,6 @@ permalink: "/people/menchie-belarmino.html"
 
 <p>Her work spans client discovery, solution design, product and business requirements, technology strategy, and presales&mdash;helping organizations translate complex business problems into viable digital solutions. She also contributes to internal initiatives focused on emerging technologies, including AI-assisted software development and the exploration of open-source platforms for enterprise use.</p>
 
-<p>A Bicol University graduate and a proud Bicolana, Menchie is passionate about creating opportunities for technology and innovation in the region. She is a member of the Quantum Computing Society of the Philippines and is joining the Quantum Computing Ideathon in Legazpi City as a business-side judge, bringing a perspective centered on business value, problem framing, feasibility, customer needs, and the potential impact of ideas.</p>
+<p>A Bicol University graduate and a proud Bicolana, Menchie is passionate about creating opportunities for technology and innovation in the region. She is a member of the Quantum Computing Society of the Philippines and is speaking at the Quantum Technology and Computing Ideathon in Legazpi City on challenge framing and ideation.</p>
 
 <p class="mt-4"><a href="{{site.baseurl}}/qcsp-officers.html">&larr; Back to QCSP Officers</a> &middot; <a href="{{site.baseurl}}/workshop-legazpi-ideathon-2026.html">Quantum Technology and Computing Ideathon</a></p>
