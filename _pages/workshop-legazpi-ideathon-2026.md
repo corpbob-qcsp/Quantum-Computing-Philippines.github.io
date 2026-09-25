@@ -149,6 +149,15 @@ Interdisciplinary teams (up to 8 groups) select one of four announced tracks:
 </div>
 </div>
 
+<div class="col-md-6 mb-5 d-flex">
+<img class="rounded-circle mr-3 speaker-avatar" src="{{site.baseurl}}/assets/images/almira_manlapaz.jpg" alt="Almira Shane Manlapaz">
+<div>
+<h4 class="font-weight-bold mb-1"><a href="{{site.baseurl}}/people/almira-manlapaz.html">Almira Shane Manlapaz</a></h4>
+<p class="text-muted speaker-role mb-2"><em>Juris Doctor Candidate, University of Santo Tomas&ndash;Legazpi College of Law</em></p>
+<p>Ms. Shane Manlapaz is a Juris Doctor candidate at UST&ndash;Legazpi and a Sociology graduate of Bicol University. Formerly with DICT's ICT Industry Development, she worked on emerging technologies, digital transformation, startup ecosystems, and eGovernment partnerships. With certifications from Cisco Networking Academy and IBM SkillsBuild, her expertise bridges technology, law, policy, and innovation.</p>
+</div>
+</div>
+
 </div>
 
 <hr/>
