@@ -7,7 +7,7 @@ image: assets/images/legazpi-ideathon-2026/hero.jpg
 categories: News
 comments: false
 ---
-LEGAZPI CITY, Philippines — The Quantum Computing Society of the Philippines (QCSP) is partnering with Invictus. Training. Solutions. to bring a **Quantum Technology and Computing Ideathon** to the Bicol region, running as the afternoon program of the **1st R-IT Congress: Region V** on September 26, 2026, at the Legazpi Convention Center in Legazpi City, Albay.
+LEGAZPI CITY, Philippines — The Quantum Computing Society of the Philippines (QCSP) is partnering with Invictus. Training. Solutions. to bring a **Quantum Technology and Computing Ideathon** to the Bicol region, running as the afternoon program of the **1st R-IT Congress: Region V** on September 26, 2026, at the Vela Hotel in Legazpi City, Albay.
 
 | ![](/assets/images/legazpi-ideathon-2026/hero.jpg) |
 |:--:|

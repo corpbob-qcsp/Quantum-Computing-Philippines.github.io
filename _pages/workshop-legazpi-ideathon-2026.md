@@ -1,6 +1,6 @@
 ---
 title: "Quantum Technology and Computing Ideathon"
-subtitle: "Legazpi Convention Center, Legazpi City, Albay, 26 September 2026"
+subtitle: "Vela Hotel, Legazpi City, Albay, 26 September 2026"
 permalink: "/workshop-legazpi-ideathon-2026.html"
 image: assets/images/legazpi-ideathon-2026/hero.jpg
 ---
@@ -8,7 +8,7 @@ image: assets/images/legazpi-ideathon-2026/hero.jpg
 <blockquote>
 <table>
 <tr><td>Afternoon program of the 1st R-IT Congress: Region V</td></tr>
-<tr><td>Legazpi Convention Center, Legazpi City, Albay</td></tr>
+<tr><td>Vela Hotel, Legazpi City, Albay</td></tr>
 <tr><td>26 September 2026, 1:30 PM &ndash; 5:00 PM</td></tr>
 </table>
 </blockquote>
