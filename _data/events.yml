@@ -277,3 +277,13 @@
   venue: "UP NISMED, Diliman, Quezon City"
   description: "A one-day Quantum Computing Workshop hosted at the National Institute for Science and Mathematics Education Development (UP NISMED), covering quantum computing foundations, hands-on Qiskit programming, and a dedicated track on bringing quantum concepts into K–12 classrooms."
   learn_more_url: "/workshop-nismed-2026.html"
+
+- title: "RIEx 2026: International Conference and Workshop on Emerging Technologies and Innovation Ecosystems"
+  date: 2026-11-18
+  end_date: 2026-11-19
+  venue: "NEUST Mini Convention Center / Online"
+  description: 'An international conference and workshop under the theme "Fostering Global Partnerships for Research Excellence, Technological Advancement, and Sustainable Futures." The program features a conference, a Quantum Computing and Cybersecurity Hackathon, research and extension project presentations, and networking, for researchers, educators, students, industry professionals, government personnel, and innovators.'
+  image: assets/images/rtiex_2026.jpg
+  register_url: "https://forms.gle/t6rWgGHKFmZhkXkb9"
+  learn_more_url: "/news/2026-10-03-riex-2026-neust/"
+  role: "Co-organizer"
