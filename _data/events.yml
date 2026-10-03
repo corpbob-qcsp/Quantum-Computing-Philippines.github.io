@@ -261,3 +261,10 @@
   venue: "Cebu City, Philippines"
   description: "The premier Quantum Innovation, Science, and Technology Conference in the Philippines, bringing together researchers, industry, and policymakers to build a responsible quantum ecosystem for the ASEAN region. Includes a pre-conference day (Nov 9) followed by the two-day main program (Nov 10–11) of keynotes, panels, and working-group sessions."
   register_url: "https://qistcon.ph/"
+
+- title: "Quantum Computing Workshop for Science and Mathematics Educators"
+  date: 2026-11-16
+  time: "Tentative — 3rd or 4th week of November 2026, exact date TBD"
+  venue: "UP NISMED, Diliman, Quezon City"
+  description: "A one-day Quantum Computing Workshop hosted at the National Institute for Science and Mathematics Education Development (UP NISMED), covering quantum computing foundations, hands-on Qiskit programming, and a dedicated track on bringing quantum concepts into K–12 classrooms."
+  learn_more_url: "/workshop-nismed-2026.html"
