@@ -255,6 +255,15 @@
   learn_more_url: "/workshop-legazpi-ideathon-2026.html"
   role: "Co-organizer"
 
+- title: "Dev8 COMPILE 2026"
+  date: 2026-10-03
+  time: "9:00 AM – 5:50 PM"
+  venue: "ACLC Dome, ACLC College of Tacloban, Tacloban City"
+  description: "Dev8's annual in-person tech conference bringing together developers, students, and tech enthusiasts across Eastern Visayas for a day of learning, networking, and collaboration on software engineering, computer science, and IT. Co-organized by ACLC College of Tacloban, QCSP, JetBrains, and Techlint, in cooperation with Paytaca and supported by Trabahadoor."
+  register_url: "https://luma.com/tk29n9zp"
+  learn_more_url: "/news/2026-10-03-dev8-compile-2026-tacloban/"
+  role: "Co-organizer"
+
 - title: "QISTCon 2026"
   date: 2026-11-09
   end_date: 2026-11-11
