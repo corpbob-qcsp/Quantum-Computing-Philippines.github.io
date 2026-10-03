@@ -245,6 +245,7 @@
   description: "A Quantum Pulse fireside chat with Michele Mosca — University of Waterloo professor, co-founder, President & CEO of evolutionQ, and originator of Mosca's Theorem (X + Y > Z) on the urgency of migrating to quantum-safe cryptography — moderated by QCSP President Bobby Corpus Jr. and Reena Dayal Yadav, Founder & CEO of the QET Council of India."
   image: assets/images/mosca_fireside_chat.png
   register_url: "https://bit.ly/3UD6xWB"
+  recap_url: "/news/2026-10-03-mosca-fireside-chat-recap/"
   role: "Co-organizer"
 
 - title: "Quantum Technology and Computing Ideathon"
