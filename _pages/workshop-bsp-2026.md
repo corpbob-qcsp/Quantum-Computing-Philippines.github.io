@@ -72,7 +72,7 @@ Designed to balance technical understanding with strategic perspective, the work
 <img class="rounded-circle mr-3 speaker-avatar" src="{{site.baseurl}}/assets/images/workshop-bsp-2026/speakers/jeffrey-aborot.jpg" alt="Jeffrey Aborot">
 <div>
 <h4 class="font-weight-bold mb-1"><a href="{{site.baseurl}}/people/jeffrey-aborot.html">Jeffrey Aborot</a></h4>
-<p class="text-muted speaker-role mb-2"><em>Software Engineer &amp; Researcher, DOST-ASTI &middot; Director, Innovation, QCSP</em></p>
+<p class="text-muted speaker-role mb-2"><em>Supervising Science Research Specialist, DOST-ASTI &middot; Director, Innovation, QCSP</em></p>
 <div class="speaker-session">1:00 PM &middot; Quantum Programming (Intro to Qiskit)</div>
 <p>Software engineer and researcher with DOST-ASTI's Computer Software and Artificial Intelligence groups, currently leading the Gul.ai Project's work on quantum computing and quantum circuit simulation in a high-performance computing environment.</p>
 </div>

@@ -67,7 +67,7 @@ The day closes with a dedicated focus on **quantum education for K&ndash;12**, c
 <img class="rounded-circle mr-3 speaker-avatar" src="{{site.baseurl}}/assets/images/qcsp-directors/jeffrey-aborot.jpg" alt="Jeffrey Aborot">
 <div>
 <h4 class="font-weight-bold mb-1"><a href="{{site.baseurl}}/people/jeffrey-aborot.html">Jeffrey Aborot</a></h4>
-<p class="text-muted speaker-role mb-2"><em>Software Engineer &amp; Researcher, DOST-ASTI &middot; Director, Innovation, QCSP</em></p>
+<p class="text-muted speaker-role mb-2"><em>Supervising Science Research Specialist, DOST-ASTI &middot; Director, Innovation, QCSP</em></p>
 <div class="speaker-session">1:00 PM &middot; Quantum Programming (Intro to Qiskit)</div>
 <p>Software engineer and researcher with DOST-ASTI's Computer Software and Artificial Intelligence groups, currently leading the Gul.ai Project's work on quantum computing and quantum circuit simulation in a high-performance computing environment.</p>
 </div>
@@ -86,10 +86,10 @@ The day closes with a dedicated focus on **quantum education for K&ndash;12**, c
 <div class="col-md-6 mb-5 d-flex">
 <img class="rounded-circle mr-3 speaker-avatar" src="{{site.baseurl}}/assets/images/mariana_filipova.jpeg" alt="Mariana Filipova">
 <div>
-<h4 class="font-weight-bold mb-1"><a href="{{site.baseurl}}/people/mariana-filipova.html">Mariana Filipova</a></h4>
-<p class="text-muted speaker-role mb-2"><em>Founder &amp; CEO, STEALM Academy &middot; PhD Student, ULSIT</em></p>
+<h4 class="font-weight-bold mb-1"><a href="{{site.baseurl}}/people/mariana-filipova.html">Dr. Mariana Filipova</a></h4>
+<p class="text-muted speaker-role mb-2"><em>Founder &amp; CEO, STEALM Academy &middot; Coordinator, QWomen at QWorld</em></p>
 <div class="speaker-session">3:55 PM &middot; Teaching Quantum in K&ndash;12</div>
-<p>Bulgarian quantum computing educator and entrepreneur based in Sofia. Founder &amp; CEO of STEALM Academy, a PhD student at the University of Library Studies and Information Technologies (ULSIT), and a specialist in corporate quantum training at Swastikk AI Tech. She actively organizes QWorld QBronze workshops and focuses on quantum algorithms, architecture, and cryptography.</p>
+<p>Dr. Filipova is the Founder and CEO of STEALM Academy in Bulgaria and the Coordinator of QWomen at QWorld. An educator and trainer, she brings quantum technology education to young learners and partners with the Quantum Computing Society of the Philippines to reach elementary and high school students. She completed her doctoral studies in Earth and Space Quantum Communication Technologies at the University of Library Studies and Information Technologies in Sofia, where she also earned a master's degree in Computer Software Engineering, and she holds a bachelor's degree in Pedagogical Sciences from Sofia University St. Kliment Ohridski.</p>
 </div>
 </div>
 

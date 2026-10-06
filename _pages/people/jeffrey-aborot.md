@@ -5,7 +5,7 @@ permalink: "/people/jeffrey-aborot.html"
 
 <img src="{{site.baseurl}}/assets/images/qcsp-directors/jeffrey-aborot.jpg" alt="Jeffrey Aborot" class="rounded-circle d-block mx-auto mb-3" width="160" height="160">
 
-<p class="text-muted text-center mb-4"><em>Director, Innovation, QCSP</em></p>
+<p class="text-muted text-center mb-4"><em>Supervising Science Research Specialist, DOST-ASTI &middot; Director, Innovation, QCSP</em></p>
 
 <p>Jeffrey Aborot is a leading figure in quantum computing research and development in the Philippines. He currently serves as the project lead for the Quantum Circuit Simulation Project at the Department of Science and Technology - Advanced Science and Technology Institute (DOST-ASTI). This pioneering initiative aims to provide local researchers with access to quantum circuit simulation software packages through the Computing and Archiving Research Environment's High-Performance Computing facility.</p>
 

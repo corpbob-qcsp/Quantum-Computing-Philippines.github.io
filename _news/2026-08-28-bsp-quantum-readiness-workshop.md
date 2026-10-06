@@ -37,7 +37,7 @@ Elmer Peramo, Assistant Scientist at the Department of Science and Technology an
 |:--:|
 | *Elmer Peramo's session on computational complexity compared how classical algorithms scale.* |
 
-The workshop then moved from concepts to hands-on quantum computing with Jeffrey Aborot, Supervising Senior Science Research Specialist at DOST–Advanced Science and Technology Institute (DOST-ASTI), who introduced participants to quantum programming using Qiskit. His session demonstrated how quantum circuits can be constructed and explored through software, giving participants an opportunity to see how the concepts introduced earlier in the day translate into actual quantum programs.
+The workshop then moved from concepts to hands-on quantum computing with Jeffrey Aborot, Supervising Science Research Specialist at DOST–Advanced Science and Technology Institute (DOST-ASTI), who introduced participants to quantum programming using Qiskit. His session demonstrated how quantum circuits can be constructed and explored through software, giving participants an opportunity to see how the concepts introduced earlier in the day translate into actual quantum programs.
 
 | ![](/assets/images/bsp-quantum-readiness-workshop/jeffrey-aborot-qiskit.jpg) |
 |:--:|
