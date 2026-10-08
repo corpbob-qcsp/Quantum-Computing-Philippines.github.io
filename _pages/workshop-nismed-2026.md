@@ -43,11 +43,20 @@ The day closes with a dedicated focus on **quantum education for K&ndash;12**, c
 <div class="row speaker-grid mt-3">
 
 <div class="col-md-6 mb-5 d-flex">
+<img class="rounded-circle mr-3 speaker-avatar" src="{{site.baseurl}}/assets/images/Ian_Agulo_pic.jpeg" alt="Ian Agulo, PhD">
+<div>
+<h4 class="font-weight-bold mb-1"><a href="{{site.baseurl}}/people/ian-agulo.html">Ian Agulo, PhD</a></h4>
+<p class="text-muted speaker-role mb-2"><em>Professor of Physics, University of the Philippines Baguio &middot; Head, Machine Intelligence and Neural Dynamics Laboratory (MIND Lab)</em></p>
+<div class="speaker-session">8:35 AM &middot; Introduction to Quantum Computing</div>
+<p>Ian Jasper A. Agulo is a Professor of Physics at the University of the Philippines Baguio and Head of its Machine Intelligence and Neural Dynamics Laboratory (MIND Lab). He holds a Ph.D. in Physics from Chalmers University of Technology, Sweden. His research applies machine learning and AI to materials science, weather prediction, smart cities, and cybersecurity.</p>
+</div>
+</div>
+
+<div class="col-md-6 mb-5 d-flex">
 <img class="rounded-circle mr-3 speaker-avatar" src="{{site.baseurl}}/assets/images/workshop-bsp-2026/speakers/marc-pontiveros.jpg" alt="Marc Jermaine Pontiveros">
 <div>
 <h4 class="font-weight-bold mb-1"><a href="{{site.baseurl}}/people/marc-pontiveros.html">Marc Jermaine Pontiveros</a></h4>
 <p class="text-muted speaker-role mb-2"><em>Senior Software Engineer, White Widget &middot; Qiskit Advocate &middot; MS Computer Science Candidate, University of the Philippines Diliman</em></p>
-<div class="speaker-session">8:35 AM &middot; Introduction to Quantum Computing</div>
 <div class="speaker-session">10:55 AM &middot; Quantum Circuits and Algorithms</div>
 <p>Software engineer by profession and an MS Computer Science student at the University of the Philippines Diliman. In his free time, he is a Qiskit Advocate with interests in quantum computing and responsible quantum software development.</p>
 </div>
@@ -89,7 +98,7 @@ The day closes with a dedicated focus on **quantum education for K&ndash;12**, c
 <h4 class="font-weight-bold mb-1"><a href="{{site.baseurl}}/people/mariana-filipova.html">Dr. Mariana Filipova</a></h4>
 <p class="text-muted speaker-role mb-2"><em>Founder &amp; CEO, STEALM Academy &middot; Coordinator, QWomen at QWorld</em></p>
 <div class="speaker-session">3:55 PM &middot; Teaching Quantum in K&ndash;12</div>
-<p>Dr. Filipova is the Founder and CEO of STEALM Academy in Bulgaria and the Coordinator of QWomen at QWorld. An educator and trainer, she brings quantum technology education to young learners and partners with the Quantum Computing Society of the Philippines to reach elementary and high school students. She completed her doctoral studies in Earth and Space Quantum Communication Technologies at the University of Library Studies and Information Technologies in Sofia, where she also earned a master's degree in Computer Software Engineering, and she holds a bachelor's degree in Pedagogical Sciences from Sofia University St. Kliment Ohridski.</p>
+<p>Dr. Filipova is the Founder and CEO of STEALM Academy in Bulgaria and Coordinator of QWomen at QWorld. An educator and trainer, she brings quantum technology education to young learners and partners with QCSP to reach elementary and high school students. Her doctoral research focused on Earth and Space Quantum Communication Technologies in Sofia.</p>
 </div>
 </div>
 
@@ -103,8 +112,8 @@ The day closes with a dedicated focus on **quantum education for K&ndash;12**, c
 <table valign="top" class="program-table">
 <tr><td>8:00 AM</td><td>&nbsp;&nbsp;&nbsp;Registration and Welcome Coffee</td></tr>
 <tr style="vertical-align:top"><td>8:30 AM</td><td>&nbsp;&nbsp;&nbsp;<b>Opening and Welcome Remarks</b><br/>&nbsp;&nbsp;&nbsp;<i>Sheryl Lyn C. Monterola, Ph.D., Director, UP NISMED &middot; Professor, Division of Curriculum and Instruction, College of Education, University of the Philippines Diliman</i></td></tr>
-<tr style="vertical-align:top"><td>8:35 AM</td><td>&nbsp;&nbsp;&nbsp;<b>Introduction to Quantum Computing</b> (superposition, entanglement, tunneling, interference, measurement)<br/>&nbsp;&nbsp;&nbsp;An introduction to the fundamental principles that make quantum computing different from classical computing &mdash; superposition, entanglement, quantum tunneling, interference, and measurement.<br/>&nbsp;&nbsp;&nbsp;<i>Marc Pontiveros</i></td></tr>
-<tr><td>9:35 AM</td><td>&nbsp;&nbsp;&nbsp;Question and Answer &mdash; Marc Pontiveros</td></tr>
+<tr style="vertical-align:top"><td>8:35 AM</td><td>&nbsp;&nbsp;&nbsp;<b>Introduction to Quantum Computing</b> (superposition, entanglement, tunneling, interference, measurement)<br/>&nbsp;&nbsp;&nbsp;An introduction to the fundamental principles that make quantum computing different from classical computing &mdash; superposition, entanglement, quantum tunneling, interference, and measurement.<br/>&nbsp;&nbsp;&nbsp;<i>Ian Agulo, PhD</i></td></tr>
+<tr><td>9:35 AM</td><td>&nbsp;&nbsp;&nbsp;Question and Answer &mdash; Ian Agulo, PhD</td></tr>
 <tr><td>9:40 AM</td><td>&nbsp;&nbsp;&nbsp;Coffee Break</td></tr>
 <tr style="vertical-align:top"><td>9:55 AM</td><td>&nbsp;&nbsp;&nbsp;<b>Complexity of Algorithms</b><br/>&nbsp;&nbsp;&nbsp;An overview of computational complexity and why quantum computing matters, comparing classical and quantum approaches and examining which types of problems are believed to benefit most from quantum computing.<br/>&nbsp;&nbsp;&nbsp;<i>Elmer Peramo</i></td></tr>
 <tr><td>10:50 AM</td><td>&nbsp;&nbsp;&nbsp;Question and Answer &mdash; Elmer Peramo</td></tr>
