@@ -54,3 +54,9 @@ Our vision is a thriving, inclusive quantum ecosystem in the Philippines, contri
 Our mission is to accomplish this by convening the national quantum community, developing local talent, and connecting the Philippines to regional and global quantum networks — including SEA-QN and **OneQuantum**, the worldwide community of local chapters whose vision of quantum technology as a force for good QCSP shares and helps advance.
 
 
+
+---
+
+## Open Quantum Institute
+
+QCSP is a **proud Member of the Open Quantum Institute (OQI)**. [Learn more about our membership]({{site.baseurl}}/oqi-membership.html).
