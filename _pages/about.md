@@ -59,4 +59,4 @@ Our mission is to accomplish this by convening the national quantum community, d
 
 ## Open Quantum Institute
 
-QCSP is a **proud Member of the Open Quantum Institute (OQI)**. [Learn more about our membership]({{site.baseurl}}/oqi-membership.html).
+QCSP is a **proud Member of the [Open Quantum Institute (OQI)](https://open-quantum-institute.web.cern.ch/){:target="_blank" rel="noopener noreferrer"}**. [Learn more about our membership]({{site.baseurl}}/oqi-membership.html).
