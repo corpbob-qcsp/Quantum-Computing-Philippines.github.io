@@ -2,7 +2,7 @@
 layout: post
 title:  "OneQuantum Philippines Gets A Seat in the Philippine Quantum Technology Board"
 date:   2023-01-06 08:30:00 -0800
-author: bobby
+author: qcsp
 image: assets/images/bobby-540-200.jpg
 categories: News
 comments: false
