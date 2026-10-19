@@ -11,6 +11,8 @@ The **Quantum Computing Society of the Philippines (QCSP)**, also known as **One
 
 We work to **raise awareness**, **develop local talent**, and **build real-world applications** of quantum technologies for the Philippines. Through **lecture series, hackathons, workshops, conferences, and partnerships** with government, academia, and industry, QCSP helps Filipinos explore how quantum technologies can support **national development, innovation, and responsible adoption**.
 
+[Read our full history]({{site.baseurl}}/history.html).
+
 ---
 
 ## What QCSP Is
