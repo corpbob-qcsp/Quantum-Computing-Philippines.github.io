@@ -265,6 +265,21 @@
   learn_more_url: "/news/2026-10-03-dev8-compile-2026-tacloban/"
   role: "Co-organizer"
 
+- title: "Philippine Cybersecurity Conference 2026"
+  date: 2026-10-21
+  venue: "Sheraton Manila Bay, Manila"
+  description: "The Philippine Cybersecurity Conference 2026, organized by the DICT Cybersecurity Bureau. QCSP President Bobby Corpus joined Panel 2, \"The Quantum Countdown,\" moderated by Philip Casanova, with panelists from defense, finance, and the cybersecurity industry."
+  recap_url: "/news/2026-10-21-philippine-cybersecurity-conference-2026/"
+  role: "Participant"
+
+- title: "Public Lecture in Honor of Ernesto Adorio"
+  date: 2026-11-07
+  time: "2:00 PM – 6:00 PM PHT"
+  venue: "Online"
+  description: "An online public lecture honoring Ernesto Adorio — mathematician, educator, and friend. Speakers: Joel Addawe, Chancellor of UP Baguio; Henry Adorna, Professor of Theoretical Computer Science at UP Diliman, on \"Sometimes the only way is the hard way!\"; Bobby Corpus, President of QCSP, on \"Quantum Computing: What It Means for Every Filipino\"; and Pros Naval, Professor of Artificial Intelligence at UP Diliman, on \"Can Machines Think? Understanding Artificial Intelligence.\""
+  image: assets/images/ernesto-adorio-public-lecture.jpg
+  register_url: "https://tally.so/r/q541WY"
+
 - title: "QISTCon 2026"
   date: 2026-11-09
   end_date: 2026-11-11
