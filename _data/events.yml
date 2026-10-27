@@ -303,3 +303,9 @@
   register_url: "https://forms.gle/t6rWgGHKFmZhkXkb9"
   learn_more_url: "/news/2026-10-03-riex-2026-neust/"
   role: "Co-organizer"
+
+- title: "Webinar on Post-Quantum Cryptography and Migration Readiness"
+  date: 2026-11-27
+  time: "1:00 PM – 4:45 PM PHT"
+  venue: "Online"
+  description: "A webinar sponsored by DICT MIMAROPA on preparing for the post-quantum era. Sessions: Introduction to Quantum Computing (Bobby Corpus, QCSP); Post-Quantum Cryptography (Earl Robles, QCSP); Adoption of Post-Quantum Cryptography (Philip Casanova, EY/SGV); PQC in the Enterprise (Secure Metric); and Securing Our OT Infrastructure (Gerry Dumatol, Dumatek)."
