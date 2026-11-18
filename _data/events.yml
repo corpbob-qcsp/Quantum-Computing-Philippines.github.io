@@ -285,7 +285,7 @@
   end_date: 2026-11-11
   venue: "Cebu City, Philippines"
   description: "The premier Quantum Innovation, Science, and Technology Conference in the Philippines, bringing together researchers, industry, and policymakers to build a responsible quantum ecosystem for the ASEAN region. Includes a pre-conference day (Nov 9) followed by the two-day main program (Nov 10–11) of keynotes, panels, and working-group sessions."
-  register_url: "https://qistcon.ph/"
+  recap_url: "/news/2026-11-11-qistcon-ph-2026/"
 
 - title: "Quantum Computing Workshop for Science and Mathematics Educators"
   date: 2026-11-16
