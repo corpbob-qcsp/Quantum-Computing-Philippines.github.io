@@ -63,7 +63,7 @@ permalink: "/qcsp-officers.html"
 }
 </style>
 
-QCSP's officers lead the organization day-to-day, coordinating program development, innovation, operations, partnerships, community affairs, student affairs, and marketing.
+QCSP's officers lead the organization day-to-day, coordinating program development, innovation, operations, partnerships, community affairs, student affairs, science communication, and marketing.
 
 <div class="orgchart">
 
@@ -172,6 +172,13 @@ QCSP's officers lead the organization day-to-day, coordinating program developme
       <img class="avatar" src="{{site.baseurl}}/assets/images/qcsp-directors/lance-raquel.jpg" alt="Lance Raquel">
       <div class="node-name"><a href="{{site.baseurl}}/people/lance-raquel.html">Lance Raquel</a></div>
       <div class="node-title">Director, Student Affairs</div>
+    </div>
+  </div>
+  <div class="node-wrap">
+    <div class="node">
+      <img class="avatar" src="{{site.baseurl}}/assets/images/qcsp-directors/ian-agulo.jpg" alt="Ian Agulo, PhD">
+      <div class="node-name"><a href="{{site.baseurl}}/people/ian-agulo.html">Ian Agulo, PhD</a></div>
+      <div class="node-title">Director, Science Communication</div>
     </div>
   </div>
 </div>
