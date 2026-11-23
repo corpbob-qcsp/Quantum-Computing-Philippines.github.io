@@ -287,13 +287,6 @@
   description: "The premier Quantum Innovation, Science, and Technology Conference in the Philippines, bringing together researchers, industry, and policymakers to build a responsible quantum ecosystem for the ASEAN region. Includes a pre-conference day (Nov 9) followed by the two-day main program (Nov 10–11) of keynotes, panels, and working-group sessions."
   recap_url: "/news/2026-11-11-qistcon-ph-2026/"
 
-- title: "Quantum Computing Workshop for Science and Mathematics Educators"
-  date: 2026-11-16
-  time: "Tentative — 3rd or 4th week of November 2026, exact date TBD"
-  venue: "UP NISMED, Diliman, Quezon City"
-  description: "A one-day Quantum Computing Workshop hosted at the National Institute for Science and Mathematics Education Development (UP NISMED), covering quantum computing foundations, hands-on Qiskit programming, and a dedicated track on bringing quantum concepts into K–12 classrooms."
-  learn_more_url: "/workshop-nismed-2026.html"
-
 - title: "RIEx 2026: International Conference and Workshop on Emerging Technologies and Innovation Ecosystems"
   date: 2026-11-18
   end_date: 2026-11-19
@@ -309,3 +302,10 @@
   time: "1:00 PM – 4:45 PM PHT"
   venue: "Online"
   description: "A webinar sponsored by DICT MIMAROPA on preparing for the post-quantum era. Sessions: Introduction to Quantum Computing (Bobby Corpus, QCSP); Post-Quantum Cryptography (Earl Robles, QCSP); Adoption of Post-Quantum Cryptography (Philip Casanova, EY/SGV); PQC in the Enterprise (Secure Metric); and Securing Our OT Infrastructure (Gerry Dumatol, Dumatek)."
+
+- title: "Quantum Computing Workshop for Science and Mathematics Educators"
+  date: 2027-01-25
+  time: "Postponed — now tentatively the last week of January 2027, exact date TBD"
+  venue: "UP NISMED, Diliman, Quezon City"
+  description: "A one-day Quantum Computing Workshop hosted at the National Institute for Science and Mathematics Education Development (UP NISMED), covering quantum computing foundations, hands-on Qiskit programming, and a dedicated track on bringing quantum concepts into K–12 classrooms."
+  learn_more_url: "/workshop-nismed-2026.html"

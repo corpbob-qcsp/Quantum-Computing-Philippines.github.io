@@ -1,6 +1,6 @@
 ---
 title: "Quantum Computing Workshop for Science and Mathematics Educators"
-subtitle: "UP NISMED, Diliman, Quezon City — Tentative: 3rd or 4th week of November 2026"
+subtitle: "UP NISMED, Diliman, Quezon City — Postponed to the last week of January 2027 (tentative)"
 permalink: "/workshop-nismed-2026.html"
 ---
 
@@ -8,7 +8,7 @@ permalink: "/workshop-nismed-2026.html"
 <table>
 <tr><td>National Institute for Science and Mathematics Education Development (UP NISMED)</td></tr>
 <tr><td>University of the Philippines Diliman, Quezon City</td></tr>
-<tr><td><strong>Tentative:</strong> 3rd or 4th week of November 2026 &mdash; exact date to be confirmed</td></tr>
+<tr><td><strong>Postponed:</strong> now tentatively the last week of January 2027 (originally the 3rd or 4th week of November 2026) &mdash; exact date to be confirmed</td></tr>
 </table>
 </blockquote>
 
