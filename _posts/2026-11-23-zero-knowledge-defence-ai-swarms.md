@@ -2,7 +2,8 @@
 layout: post
 title:  "Nothing Worth Stealing: Zero-Knowledge Architecture as the Defence Against AI Swarm Attacks"
 author: earl
-image: assets/images/zkp-wide.png
+image: assets/images/zkp.png
+card_image: assets/images/zkp-wide.png
 categories: Cryptography
 comments: false
 ---

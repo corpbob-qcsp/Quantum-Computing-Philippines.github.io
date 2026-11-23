@@ -194,7 +194,8 @@ description: "Welcome to a global community of Quantum Computing!"
     <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
     <a href="{{site.baseurl}}{{latest_post.url}}">
-    <div style="background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} {{site.baseurl}}/{{ latest_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-position: center;    background-repeat: no-repeat;"></div>
+    {% assign card_img = latest_post.card_image | default: latest_post.image %}
+    <div style="background-image: url({% if card_img contains "://" %}{{ card_img }}{% else %} {{site.baseurl}}/{{ card_img }}{% endif %}); height: 200px;    background-size: cover;    background-position: center;    background-repeat: no-repeat;"></div>
     </a>
     <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
     <h2 class="h4 font-weight-bold">
