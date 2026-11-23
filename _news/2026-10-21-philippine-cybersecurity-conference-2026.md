@@ -13,7 +13,7 @@ comments: false
 |:--:|
 | *Panel 2, "The Quantum Countdown," at the Philippine Cybersecurity Conference 2026, Sheraton Manila Bay.* |
 
-The panel was moderated by **Philip Casanova**, Partner at SGV & Co./EY Philippines and President of ISC2 Philippines. It brought together voices from the quantum community, defense, finance, and the cybersecurity industry.
+The panel was moderated by **Philip Casanova**, Principal at SGV & Co./EY Philippines and President of ISC2 Philippines. It brought together voices from the quantum community, defense, finance, and the cybersecurity industry.
 
 ## The Panelists
 

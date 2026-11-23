@@ -45,7 +45,7 @@ The workshop then moved from concepts to hands-on quantum computing with Jeffrey
 
 The discussions later turned toward one of the most immediate concerns for the financial sector: cybersecurity in a future where sufficiently powerful quantum computers could challenge some of today's widely deployed public-key cryptographic systems.
 
-Philip Casanova, Partner at SGV & Co./EY Philippines and President of ISC2 Philippines, discussed quantum readiness, realistic timelines, cybersecurity risks, and the transition toward quantum-safe cryptography. The session highlighted why organizations do not need to wait for fault-tolerant quantum computers before beginning preparations for the post-quantum era.
+Philip Casanova, Principal at SGV & Co./EY Philippines and President of ISC2 Philippines, discussed quantum readiness, realistic timelines, cybersecurity risks, and the transition toward quantum-safe cryptography. The session highlighted why organizations do not need to wait for fault-tolerant quantum computers before beginning preparations for the post-quantum era.
 
 | ![](/assets/images/bsp-quantum-readiness-workshop/philip-casanova-quantum-readiness.jpg) |
 |:--:|

@@ -82,7 +82,7 @@ Designed to balance technical understanding with strategic perspective, the work
 <img class="rounded-circle mr-3 speaker-avatar" src="{{site.baseurl}}/assets/images/workshop-bsp-2026/speakers/philip-casanova.jpg" alt="Philip Casanova">
 <div>
 <h4 class="font-weight-bold mb-1"><a href="{{site.baseurl}}/people/philip-casanova.html">Philip Casanova</a></h4>
-<p class="text-muted speaker-role mb-2"><em>Partner, SGV &amp; Co./EY Philippines &middot; President, ISC2 Philippines</em></p>
+<p class="text-muted speaker-role mb-2"><em>Principal, SGV &amp; Co. (EY Philippines) &middot; President, ISC2 Philippines</em></p>
 <div class="speaker-session">2:15 PM &middot; Quantum Readiness: Risks, Realities, and the Road Ahead</div>
 <p>Leads the Cybersecurity Field of Play at SGV &amp; Co./EY Philippines, with more than 30 years of experience as a CISO for financial institutions across the Philippines, Asia, and North America, and doctoral research focused on the adoption of post-quantum cryptography.</p>
 </div>

@@ -18,6 +18,12 @@
   description: "A one-day Quantum Computing Workshop hosted at UP NISMED, giving science and mathematics educators a practical introduction to quantum computing and how to bring it into the K–12 classroom. Postponed from November 2026 and now tentatively scheduled for the last week of January 2027; exact date to be confirmed."
   url: "/workshop-nismed-2026.html"
 
+- title: "Webinar on Post-Quantum Cryptography and Migration Readiness"
+  date: 2026-11-27
+  venue: "Online"
+  description: "A half-day webinar sponsored by DICT MIMAROPA on preparing for the post-quantum era, covering an introduction to quantum computing, post-quantum cryptography, its adoption and use in the enterprise, and securing operational technology (OT) infrastructure."
+  url: "/workshop-pqc-webinar-2026.html"
+
 - title: "Quantum Technology and Computing Ideathon"
   date: 2026-09-26
   venue: "Vela Hotel, Legazpi City, Albay"

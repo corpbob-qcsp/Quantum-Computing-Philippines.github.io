@@ -301,7 +301,8 @@
   date: 2026-11-27
   time: "1:00 PM – 4:45 PM PHT"
   venue: "Online"
-  description: "A webinar sponsored by DICT MIMAROPA on preparing for the post-quantum era. Sessions: Introduction to Quantum Computing (Bobby Corpus, QCSP); Post-Quantum Cryptography (Earl Robles, QCSP); Adoption of Post-Quantum Cryptography (Philip Casanova, EY/SGV); PQC in the Enterprise (Secure Metric); and Securing Our OT Infrastructure (Gerry Dumatol, Dumatek)."
+  description: "A webinar sponsored by DICT MIMAROPA on preparing for the post-quantum era. Sessions: Introduction to Quantum Computing (Mariah Kaliegee Jardinico, UP Baguio); Post-Quantum Cryptography (Earl Robles, QCSP); Adoption of Post-Quantum Cryptography (Philip Casanova, EY/SGV); PQC in the Enterprise (Jeffrey Serrano, Secure Metric); and Securing Our OT Infrastructure (Gerry Dumatol, Dumatek)."
+  learn_more_url: "/workshop-pqc-webinar-2026.html"
 
 - title: "Quantum Computing Workshop for Science and Mathematics Educators"
   date: 2027-01-25
