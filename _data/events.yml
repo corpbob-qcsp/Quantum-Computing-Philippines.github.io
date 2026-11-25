@@ -331,3 +331,12 @@
   venue: "UP NISMED, Diliman, Quezon City"
   description: "A one-day Quantum Computing Workshop hosted at the National Institute for Science and Mathematics Education Development (UP NISMED), covering quantum computing foundations, hands-on Qiskit programming, and a dedicated track on bringing quantum concepts into K–12 classrooms."
   learn_more_url: "/workshop-nismed-2026.html"
+
+- title: "Theoretical Physics Spring School (TPSS) 2027"
+  date: 2027-01-03
+  end_date: 2027-04-25
+  time: "Sundays, 2 hours per session · Examination on 7 May 2027"
+  venue: "Online (Google Meet)"
+  description: "A four-month online course by Quantum Wings, with QCSP as a partner organization, teaching classical, statistical, relativistic, and quantum physics to high school students, pre-university students, Physics Olympiad participants, and first-year undergraduates. Motivated by the Philippines' PISA results and aimed at rekindling interest in STEM. Registration runs from November 23 to December 31, 2026."
+  learn_more_url: "/workshop-tpss-2027.html"
+  role: "Partner"

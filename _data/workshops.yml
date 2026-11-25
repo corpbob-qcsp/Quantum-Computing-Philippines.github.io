@@ -12,6 +12,13 @@
 #   description: "One or two sentence description of the workshop."
 #   url: "/workshop2026.html"   # the workshop's own dedicated page (internal path or full URL)
 
+- title: "Theoretical Physics Spring School (TPSS) 2027"
+  date: 2027-01-03
+  end_date: 2027-04-25
+  venue: "Online"
+  description: "A four-month online course by Quantum Wings, with QCSP as a partner organization, introducing high school and first-year university students to classical, statistical, relativistic, and quantum physics through 16 Sunday sessions, with an examination on 7 May 2027. Motivated by the Philippines' PISA results and aimed at rekindling interest in STEM."
+  url: "/workshop-tpss-2027.html"
+
 - title: "Quantum Computing Workshop for Science and Mathematics Educators"
   date: 2027-01-25
   venue: "UP NISMED, Diliman, Quezon City"
