@@ -28,6 +28,15 @@ QCSP is guided by a group of senior advisers whose experience spans industry, te
 </div>
 
 <div class="col-md-6 mb-5 d-flex">
+<img class="rounded-circle mr-3" src="{{site.baseurl}}/assets/images/workshop-pqc-webinar-2026/speakers/philip-casanova.jpg" alt="Philip Casanova" width="110" height="110">
+<div>
+<h4 class="font-weight-bold mb-1"><a href="{{site.baseurl}}/people/philip-casanova.html">Philip Casanova</a></h4>
+<p class="text-muted mb-2"><em>Principal, SGV &amp; Co. (EY Philippines) &middot; President, ISC2 Philippines Chapter</em></p>
+<p>Philip Casanova is a Principal at SGV &amp; Co. (EY Philippines), its cybersecurity consulting leader, and President of the ISC2 Philippines Chapter. With over 30 years of experience as a consultant and CISO in financial services, he is pursuing a doctorate on cybersecurity reform and quantum-safe adoption.</p>
+</div>
+</div>
+
+<div class="col-md-6 mb-5 d-flex">
 <img class="rounded-circle mr-3" src="{{site.baseurl}}/assets/images/advisers/mon-ibrahim.jpg" alt="Monchito Ibrahim" width="110" height="110">
 <div>
 <h4 class="font-weight-bold mb-1"><a href="{{site.baseurl}}/people/mon-ibrahim.html">Monchito "Mon" Ibrahim</a></h4>
