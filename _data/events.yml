@@ -297,12 +297,33 @@
   learn_more_url: "/news/2026-10-03-riex-2026-neust/"
   role: "Co-organizer"
 
+- title: "Q-ReDIT: Alice in Quantumland Training Workshop"
+  date: 2026-11-21
+  venue: "Online (Webex)"
+  description: "A training workshop in the Q-ReDIT (Quantum Ready Development Instruction and Training) series, led by Dr. Pere Juarez Vives of the University of Barcelona. Using gamification and active learning, participants explored quantum reversibility through a Snakes and Ladders board game and discussed quantum citizenship. Co-organized by QCSP and the IEEE Computer Society Philippine Chapter."
+  recap_url: "/news/2026-11-21-qredit-alice-in-quantumland-workshop/"
+  role: "Co-organizer"
+
 - title: "Webinar on Post-Quantum Cryptography and Migration Readiness"
   date: 2026-11-27
   time: "1:00 PM – 4:45 PM PHT"
   venue: "Online"
   description: "A webinar sponsored by DICT MIMAROPA on preparing for the post-quantum era. Sessions: Introduction to Quantum Computing (Mariah Kaliegee Jardinico, UP Baguio); Post-Quantum Cryptography (Earl Robles, QCSP); Adoption of Post-Quantum Cryptography (Philip Casanova, EY/SGV); PQC in the Enterprise (Jeffrey Serrano, Secure Metric); and Securing Our OT Infrastructure (Gerry Dumatol, Dumatek)."
   learn_more_url: "/workshop-pqc-webinar-2026.html"
+
+- title: "Q-ReDIT: Developing Expertise in Quantum Computing"
+  date: 2026-11-28
+  venue: "Online"
+  description: "A webinar in the Q-ReDIT (Quantum Ready Development Instruction and Training) series with Himanshu Thapliyal on developing expertise in quantum computing. Co-organized by QCSP and the IEEE Computer Society Philippine Chapter."
+  register_url: "https://luma.com/va3lnghy"
+  role: "Co-organizer"
+
+- title: "Q-ReDIT: Quantum Technology for Educators"
+  date: 2026-11-30
+  venue: "Online"
+  description: "A webinar in the Q-ReDIT (Quantum Ready Development Instruction and Training) series with Olga Mamlyga on quantum technology for educators. Co-organized by QCSP and the IEEE Computer Society Philippine Chapter."
+  register_url: "https://luma.com/va3lnghy"
+  role: "Co-organizer"
 
 - title: "Quantum Computing Workshop for Science and Mathematics Educators"
   date: 2027-01-25
