@@ -142,6 +142,13 @@
   role: "Speaking"
   recap_url: "/news/2026-03-04-acdsa-boracay/"
 
+- title: "Quantum Leap: Exploring the Future of Quantum Computing"
+  date: 2026-03-25
+  venue: "School Library, Cebu City National Science High School, Cebu City"
+  description: "A full-day quantum computing awareness program for high school students, organized by CTRL + C, the coding, technology, and robotics learning club of Cebu City National Science High School, with QCSP. It featured the unveiling of a SpinQ Gemini two-qubit desktop quantum computer, talks by Dr. Cherry Lyn Sta. Romana, Bobby Corpus, Brian Siegelwax, and Julius Evangelio, and a quantum-themed project pitching contest."
+  recap_url: "/news/2026-03-25-ccnshs-quantum-leap/"
+  role: "Co-organizer"
+
 - title: "Quantum-Safe Communications: Bridging QKD and Post-Quantum Cryptography"
   date: 2026-06-04
   venue: "DevCon Philippines Office, Ortigas, Pasig City"

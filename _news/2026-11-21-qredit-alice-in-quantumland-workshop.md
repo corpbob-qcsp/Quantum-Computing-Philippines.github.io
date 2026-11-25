@@ -19,6 +19,14 @@ The approach is built on **constructivism and active learning**. It uses gamific
 |:--:|
 | *Participants and the speaker at the close of the Alice in Quantumland Training Workshop.* |
 
+## Watch the Webinar
+
+<div class="embed-responsive embed-responsive-16by9 mb-4">
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vEySgOM8RPM" title="Alice in Quantumland Training Workshop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+*The recording of the webinar on YouTube.*
+
 ## Part 1: Quantum Reversibility (A Board Game Activity)
 
 Participants played a modified digital version of **Snakes and Ladders** on Miro, using online dice to track Alice's 10-roll journey across squares with ladders, snakes, clocks (wait two turns), and a reset square (return to square 1).

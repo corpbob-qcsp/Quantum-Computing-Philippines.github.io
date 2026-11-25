@@ -34,3 +34,6 @@ tmp/
 # Original full-size photos; the news post uses resized copies in assets/images/2026-11-24-bsp-ctf-ers-2026/
 assets/images/bsp-etf-2026.JPG
 assets/images/bsp-etf-2026-2.JPG
+# Original (unprocessed) CCNSHS Quantum Leap photos; resized copies live in assets/images/2026-03-25-ccnshs-quantum-leap/
+assets/images/ccnshs-2026-1.HEIC
+assets/images/ccnshs-2026-2.HEIC
